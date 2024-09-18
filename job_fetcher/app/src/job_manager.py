@@ -1,9 +1,12 @@
+# TODO add comments
+
 from datetime import datetime
 
 from django.core.exceptions import ValidationError
 
 from .get_jobs import get_jobs
 from ..models import Job
+from ..utils.helper import turn_result_into_dict
 
 class JobManager:
     def __init__(self):
@@ -11,21 +14,16 @@ class JobManager:
 
     def get_all(self):
         all_jobs = Job.objects.all()
-        data = []
-        for job in all_jobs:
-            job_dict = {
-                "url": job.job_url,
-                "title": job.title,
-                "company": job.company,
-                "type": job.type,
-                "field": job.field,
-                "description": job.description,
-                "location": job.location,
-                "date_posted": job.date_posted
-            }
-            data.append(job_dict)
 
-        return data
+        return turn_result_into_dict(all_jobs)
+
+    def search_for_jobs(self, date, title, company, category):
+        if date == "all" and category == "all" and company == "none" and title == 'none':
+            return self.get_all()
+
+        # TODO finish this method
+
+
 
     def store_into_database(self):
         jobs = get_jobs()
