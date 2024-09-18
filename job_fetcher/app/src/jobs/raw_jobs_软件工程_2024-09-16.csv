@@ -1,0 +1,834 @@
+"id","site","job_url","job_url_direct","title","company","location","job_type","date_posted","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","company_industry","listing_type","emails","description","company_url","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","logo_photo_url","banner_photo_url","ceo_name","ceo_photo_url"
+"1009448331019","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448331019","","Embedded Software Engineer Intern","Bose","Framingham, MA","","2024-09-16","direct_data","yearly",95507.0,113780.0,"USD",False,"","","","organic","Wellbeing@bose.com, wellbeing@bose.com","You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. We’ve dedicated ourselves to improving it for nearly 60 years. And we’re passionate down to our bones about making whatever you’re listening to a little more magical.
+The engineering team at Bose is a thriving, passionate, deeply skilled team of professionals from a broad range of disciplines and experiences, who share a common goal—to create products that provide transformative sound experiences.
+Job Description
+At Bose, we are passionate about helping people reach their fullest human potential so that they can feel more, do more, and be more. Working as a team member of Bose Software Organization (BSO), come astonish our cutting-edge audio systems with your outstanding ability to develop algorithms and software for a superlative audio experience in a car. Bose intern/co-op program aims to provide students with hands-on opportunities to solve real-world problems with software skills. In addition to enhancing software development skills, you will also collaborate with research, acoustic tuning teams to see the product life cycle. Our team strives to make every intern/co-op experience rewarding, practical, and seamless to successfully launch your career after graduation.
+Education* BS student minimum, graduate student preferred
+
+
+Skills* Coursework in embedded systems, real-time operating system (RTOS), algorithms, or computer architecture
+* Experience in C, Python, and MATLAB
+* Experience in algorithm development, validation, performance benchmarking, and debug
+* Knowledge of digital signal processing (DSP) algorithms for audio applications
+
+
+Responsibilities* Develop prototype SW modules that meet system design requirements
+* Write high-quality, maintainable source code that meets peer code review expectation
+* Deploy, operate work product in the embedded development environment
+* Technical documentation on software design, implementation, and validation
+
+
+Project Description
+The objective of this role aims to assist development of reusable software modules that enable basic audio controls and commands for Qualcomm Snapdragon SoC family. In the up-integration model, Bose automotive audio features shall meet high expectation to deliver platform agnostic SW modules in a multi-core SoC (ARM and Hexagon DSP cores) and enable close collaboration with partners without revealing Bose IP. The qualified candidate will participate in code development, performance benchmarking, and preparation of technical documentation.
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP\\_EEO\\_Supplement\\_Final\\_JRF\\_QA\\_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665\\_PrescribedNondiscriminationPostingLanguage\\_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.
+If you believe you need a reasonable accommodation, please send a note to wellbeing@bose.com","https://www.glassdoor.com/Overview/W-EI_IE3098.htm","","","","","","https://media.glassdoor.com/sql/3098/bose-squarelogo-1582730435570.png","","",""
+"1009448163231","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448163231","","Software Engineer Intern","Visa","Atlanta, GA","","2024-09-16","direct_data","hourly",26.0,31.0,"USD",False,"","","","organic","","**Company Description**  
+
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
+
+
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
+
+
+Join Visa: A Network Working for Everyone.
+
+ **Job Description**  
+
+We are seeking Software Engineer interns across our Technology organization. As an intern, you will take on meaningful work, engage in out-of-the-box problem solving, and participate in global case challenges and impactful initiatives. You will get the chance to work with multiple teams, systems, and products through a wide variety of data sources. From technology to business, we are looking for people who can innovate, collaborate and bring Visa into the next level of a rapidly evolving digital marketplace.
+
+
+During the internship, you will work on one or more hands-on projects with the team. Our summer internship also equips you with social and professional networking events and developmental workshops, designed to provide you the resources and training to have an impactful summer.
+
+
+Some examples of previous summer intern projects:
+
+* Self-serve deployment of Kafka clusters using Docker and Kubernetes with auto scale up capability
+* Creating a natural language Chatbot for searching CDISI knowledge base
+* Developing a prototype that would automate payments at gas stations
+* Automating process for removing duplicate compromised account numbers using low latency algorithms
+* Improving the usage of Visa Checkout across all mobile and web devices
+* Developing testing tools to identify errors in internal systems
+* Creating visual monitoring tools to uncover transaction errors
+* Analyze, design, code and unit test software solutions and enhancements for an application that applies business logic and routes digital currency of global transactions
+* Develop a robust app factory to be used to create hundreds of mobile banking applications for iOS and Android with a single click
+* Implementation of a single development lifecycle, from Analysis and Design, Build, QA, Security, and Deployment. Begin to learn best and secure coding practices and standards
+
+
+As a summer Intern, you will be placed in one of the technology organizations at Visa and specific assignments will depend on upon your skills sets, interest, and team needs.
+
+ **Qualifications**  
+
+Basic Qualifications
+
+* Students pursuing a Bachelor’s degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating December 2025 or later.
+* Strong communications skills, specifically, the absence of repeated grammatical or typographical errors, clear and concise written and spoken communications that demonstrate professional judgment.
+
+
+Preferred Qualifications
+
+* Proficiency in at least one programming language or technology including, but not limited, to Java, C/C++, C#, .NET, python, Javascript, HTML
+* Experience with Write utilities / automation tools using Selenium, Java, REST, Python, Groovy, and more
+* Familiarity with software testing principles
+* Solid understanding of software engineering concepts and methodologies
+* Document process, designs, test results, and analysis
+* Lead root cause analysis and track defect resolution to completion
+* Review and provide feedback on development code, test designs and test cases
+* Strong ability to collaborate
+* Highly driven, resourceful and results oriented
+* Good team player and excellent interpersonal skills
+* Good analytical and problem-solving skills
+* Demonstrated ability to lead and navigate through ambiguity
+
+  
+
+**Additional Information** **U.S. APPLICANTS ONLY:** The estimated hourly range for a new hire into this position is $26.00 to $31.00 which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.
+
+**Work Authorization:** Visa will not sponsor applicants for work visas in connection with this position. Future sponsorship will not be considered.
+
+**Work Hours:** Varies upon the needs of the department
+
+**Travel Requirements:** This position requires travel 5-10% of the time.
+
+**Mental/Physical Requirements:** This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.","https://www.glassdoor.com/Overview/W-EI_IE3035.htm","","","","","","https://media.glassdoor.com/sql/3035/visa-inc-squareLogo-1627484054817.png","","",""
+"1009446747930","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446747930","","Comcast Software Engineer Intern","Comcast Corporation","New York, NY","","2024-09-14","direct_data","hourly",40.0,40.0,"USD",False,"","","","organic","","FreeWheel, a Comcast company, provides comprehensive ad platforms for publishers, advertisers, and media buyers. Powered by premium video content, robust data, and advanced technology, we’re making it easier for buyers and sellers to transact across all screens, data types, and sales channels. As a global company, we have offices in nine countries and can insert advertisements around the world. **Job Summary**
+
+
+This job code is to be used for internships and co-ops. It is not to be used for temporary or contract workers.**Job Description**
+
+**Program** **Overview**
+
+
+Discover opportunities designed to set your career in motion! The Comcast internship/co-op program will help you cultivate meaningful relationships, develop strong interpersonal and business skills, gain exposure to the day-to-day operations of a Fortune 40 media and technology company, and receive mentorship opportunities to expand your professional network.
+
+
+This program immerses students into the daily operation of a contemporary media and technology company while working side-by-side with Comcast’s top innovators. The student becomes an integral part of the Comcast team working on creative, innovative, and thought-provoking projects within various business units.
+
+**Organization** **& Team****Overview**
+
+
+FreeWheel, a part of Comcast Advertising, works at the intersection of media and technology. Our solutions and systems are used across the entire Ad Tech ecosystem, and our teams are continually developing and delivering products that transform the advertising space.
+
+
+The OptiML (Mathematical optimization and Machine Learning) team develops, deploys, and supports ML and Optimization processes for forecasting, planning, ad scheduling, and inventory buying applications in the FreeWheel ad serving platform. We use machine learning and mathematical optimization to help supply-side clients characterize, forecast, and manage their supply; and to help internal and external demand-side clients deliver their campaigns successfully. Our team is full of mathematicians, engineers, and people who love data and the problems it can help solve.
+
+**Role** **Description**
+
+
+Do you like solving hard problems and want to work, learn, and grow alongside a great team? Do you ever wonder why you saw a certain ad, or how and why great content is made?
+
+
+As a Machine Learning Engineer intern on the OptiML team you’ll get to work on hard problems in the advertising space and learn how data, optimization, and machine learning can be leveraged to solve these problems.
+
+**What are some interesting problems the** **student** **will work on?**
+
+
+In your role you’ll work on creating and deploying applications to solve advertising business problems. You’ll be writing code for cloud-first applications handling huge amounts of data, all to solve critical business problems that help support the advertising ecosystem. As a result, we as consumers continue to get great content.
+
+**Where can this** **student** **make an impact?**
+
+
+You’ll be working with a great team of Machine Learning Engineers to deliver applications and solutions to business problems that will have a lasting effect on FreeWheel’s business, how our clients’ advertising dollars are spent, and how our clients’ inventory (ad space) is optimized. At the end of the internship you’ll be able to look back at all that you learned about advertising, tech, cloud computing, as well as data engineering and machine learning and optimization.
+
+**Job Responsibilities**
+
+
+Responsibilities include but are not limited to:
+
+* Process and analyze data for use in forecasting and optimization
+* Visualization, dashboard, and monitoring development
+* Develop machine learning models for forecasting
+* Other duties and responsibilities as assigned.
+ **Preferred****Skills**
+
+* Machine Learning
+* Big Data Analytics
+* Python
+* Preferred Majors: Computer Science, Mathematics, Applied Mathematics, Engineering, Data Science
+ **Minimum** **Qualifications** **and Eligibility Requirements**
+
+* Currently pursuing a bachelor’s degree from a United States-based college or university
+* Rising Junior or Rising Senior only (must have a graduation date between Winter 2025- Spring 2027)
+* Returning to degree-program (for at least a semester) after the completion of the summer internship (meaning, student must be returning to school for Fall 2025 semester before graduating)
+* Available to work 40 hours per week over the course of the summer program- June 2 through August 15, 2025
+* Authorized to work in the United States with no current or future sponsorship needs
+* Available to report in-person to the work location on the job posting (unless virtual offering)
+* Comcast is an Affirmative Action/EEO employer M/F/D/V
+  
+
+Comcast is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.
+
+ **Salary:**
+
+
+Base Pay: $40.00  
+
+  
+
+The application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later.
+
+  
+
+Additionally, Comcast provides best-in-class Benefits to eligible employees. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.
+
+ **Relevant Work Experience**
+
+
+0-2 Years","https://www.glassdoor.com/Overview/W-EI_IE1280.htm","","","","","","https://media.glassdoor.com/sql/1280/comcast-squarelogo-1552675219892.png","","",""
+"1009446749423","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446749423","","Software Engineer Intern (Hybrid) - June 2025","Staples, Inc.","Framingham, MA","","2024-09-14","direct_data","yearly",46266.0,69721.0,"USD",False,"","","","organic","","**Staples is business to business. You’re what binds us together.**
+
+
+
+We’re searching for you: fresh talent with new ideas, innovation, passion, and drive to bring to Staples. We have student and graduate opportunities where you’ll help the Staples, Inc. organization be more successful and productive while building a purposeful career. Whether you are looking for a summer internship, co-op, or an entry-level role, we’ll help you develop the technical and soft skills you need to thrive in the future.
+
+
+***This intern position requires you to be in a hybrid working model (at least 3 days in the office, and 2 days remote) based at the Staples, Inc. Corporate Headquarters in Framingham, MA. This position is*** ***NOT*** ***eligible for CPT/OPT status.***
+
+
+**Target Start Date:** June 2, 2025 - August 15, 2025 (11-week program)
+
+
+**Potential internship opportunities for June 2025 in the following areas: Technology/Engineering**
+
+
+* Software Engineer Interns
+* Cloud Services Intern
+
+
+**What you bring to the table:**
+
+
+* Collaborative – able to build partnerships and work collaboratively with others to meet shared objectives
+* Customer Focused – able to identify and understand internal or external customer needs and interests and deliver customer-centric solutions
+* Inclusive – dedicated to fostering an inclusive environment consisting of diverse individuals from varying backgrounds and cultures
+* Innovative – develop new insights; question conventional approaches; encourage new ideas; design and implement new solutions
+* Self-Developer – actively seeks new ways to grow and be challenged using both formal and informal development channels
+
+
+**What you’ll be doing: Any one of the following as a main skill set**
+
+
+* Create/Update User Interfaces as per the functional needs using the latest technologies such as React JS, Node JS, and Angular JS.
+* Create/Update REST APIs to achieve a specific functionality using the latest Java technologies such as Spring Boot, Core Java, Micro Services, etc.
+* Knowledge of Relational databases such as Oracle/MYSQL and ability to write SQL Queries.
+* Knowledge of CICD and Dev Ops technologies and any related Programming language like Python or Java
+* Knowledge or Interest in any QA automation like Selenium using Java or any other programming language
+* Linux administrative skills, shell scripting, or Python
+* One of the following cloud computing platforms: Azure, AWS, or GCP
+
+
+**What’s needed- Basic Qualifications:**
+
+
+* Actively pursuing a bachelor's or master’s degree
+* Must be a rising senior enrolled as a full-time student carrying a minimum of 12 college credits
+* Strong Microsoft Office skills
+* Strong Excel skills: ability to use a pivot table
+
+
+ **What’s needed - Preferred Qualifications:**
+
+
+* Enjoy working in teams and being highly communicative.
+* Able to multi-task and be flexible to new initiatives.
+* Adaptability, flexibility, and willingness to learn new things quickly
+
+
+Interested in joining the team? Check out our perks and benefits!
+
+
+
+At Staples, “inclusion” is an action word. It represents what we do to ensure that all employees feel valued and supported to contribute to their fullest potential. When we operate inclusively, diversity naturally follows. This is why we work hard to foster an inclusive culture, as we seek employees with unique and varied perspectives and areas of expertise. The result is a better workplace and innovative thinking that helps us exceed our customers’ expectations - through the power of the people behind our iconic brand.
+
+
+Staples is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, gender, sexual orientation, ancestry, national origin, veteran status, disability, or any other classification protected by federal, state, or local law.","https://www.glassdoor.com/Overview/W-EI_IE1909.htm","","","","","","https://media.glassdoor.com/sql/1909/staples-squarelogo-1561571335904.png","","",""
+"de1d0e08b1e8b879","indeed","https://www.indeed.com/viewjob?jk=de1d0e08b1e8b879","https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Application-Software-Engineer-Intern_JR-044279","Application Software Engineer Intern","Brunswick","Fond du Lac, WI, US","fulltime","2024-09-16","direct_data","yearly",46420.0,58778.0,"USD",False,"","","","","hrsharedservices@brunswick.com, hrsharedservices@brunswick.com, HRSharedServices@brunswick.com","*Are you ready for what’s next?**Come explore opportunities within* *Brunswick, a global marine leader* *committed to challenging conventions and innovating next-generation technologies that transform experiences on the water and beyond. Brunswick believes “Next Never Rests™,” and we offer a variety of exciting careers and growth opportunities within united teams defining the future of marine recreation.*
+Mercury Marine is seeking a Software Engineering intern to take part in the design and development of software to interact with engine hardware. This is an Engineering position that will involve working on Desktop, Mobile, Web and Cloud applications. You will be part of a high-performance team that values collaboration, quality, and getting the job done. You are our ideal candidate if you are energetic and have a passion for developing high quality software solutions.
+As a Mobile Application Software Engineer Intern you may have the opportunity to:* Architect, design, develop and implement mission critical applications using .NET.
+* Design and develop robust, scalable, high performing production applications with users across the globe.
+* Build internal systems and support team needs with your domain expertise.
+* Leverage your existing skills while learning and implementing new technologies.
+* Work closely with various engineering teams, and business stakeholders.
+* Work in and around watercraft.
+
+
+In addition to a great hands-on learning experience you will also acquire the skills needed to:* Select and apply standard engineering techniques, procedures, criteria, and judgment in a real-world, hands-on, cross-functional environment.
+* Become experienced in developing functional requirements and user stories, data analysis, documenting and authenticating testing results, and technical report writing.
+
+
+Qualifications of a successful candidate:* Current enrollment in a BS program with a major in Computer Engineering, Software Engineering, or equivalent.
+* Experience with cross-platform iOS and Android mobile development, cloud technologies, web applications and services, and embedded firmware including C#, Microsoft suite (.NET MAUI, Azure), Bluetooth, and JSON a plus.
+* Minimum second semester sophomore status with 48 completed credits
+* Availability to work full-time (40 or more hours per week) during the summer of 2025
+* Creative ability with strong software aptitude
+* Permanent US Work Authorization required
+
+*Next is Now!* *We value growth and development, recognizing that people come with a wealth of experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please still consider applying.*
+Brunswick is an Equal Opportunity Employer and considers all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or any other characteristic protected by federal, state, or local law. Diversity of experience and skills combined with passion is key to innovation and inspiration and we encourage individuals from all backgrounds to apply. If you require accommodation during the application or interview process, please contact hrsharedservices@brunswick.com for support.
+For more information about EEO laws, - click here
+Brunswick and Workday Privacy Policies
+Brunswick does not accept applications, inquiries or solicitations from unapproved staffing agencies or vendors. For help, please contact our support team at: hrsharedservices@brunswick.com or 866-278-6942.
+All job offers will come to you via the candidate portal you create when applying through a posted position through https:///www.brunswick.com/careers. If you are ever unsure about what is being required of you during the application process or its source, please contact HR Shared Services at 866-278-6942 or HRSharedServices@brunswick.com.
+#Brunswick Corporation - Mercury Marine","https://www.indeed.com/cmp/Brunswick-6","https://www.brunswick.com/","Mettawa, IL","10,000+","$5B to $10B (USD)","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8eac3526e1a24f3ff13a21b90d905df9","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/68b5b88fad131d47e5ce4ee537eddfb1","David M. Foulkes","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/01554716f7902adfe0195bbf045c483a"
+"a1839f013d35b1f6","indeed","https://www.indeed.com/viewjob?jk=a1839f013d35b1f6","https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R27475","Embedded Software Engineer Intern","Bose","Framingham, MA, US","fulltime","2024-09-16","direct_data","yearly",66076.0,83668.0,"USD",False,"","","Computers And Electronics","","Wellbeing@bose.com, wellbeing@bose.com","You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. We’ve dedicated ourselves to improving it for nearly 60 years. And we’re passionate down to our bones about making whatever you’re listening to a little more magical.
+The engineering team at Bose is a thriving, passionate, deeply skilled team of professionals from a broad range of disciplines and experiences, who share a common goal—to create products that provide transformative sound experiences.
+Job Description
+At Bose, we are passionate about helping people reach their fullest human potential so that they can feel more, do more, and be more. Working as a team member of Bose Software Organization (BSO), come astonish our cutting-edge audio systems with your outstanding ability to develop algorithms and software for a superlative audio experience in a car. Bose intern/co-op program aims to provide students with hands-on opportunities to solve real-world problems with software skills. In addition to enhancing software development skills, you will also collaborate with research, acoustic tuning teams to see the product life cycle. Our team strives to make every intern/co-op experience rewarding, practical, and seamless to successfully launch your career after graduation.
+Education* BS student minimum, graduate student preferred
+
+
+Skills* Coursework in embedded systems, real-time operating system (RTOS), algorithms, or computer architecture
+* Experience in C, Python, and MATLAB
+* Experience in algorithm development, validation, performance benchmarking, and debug
+* Knowledge of digital signal processing (DSP) algorithms for audio applications
+
+
+Responsibilities* Develop prototype SW modules that meet system design requirements
+* Write high-quality, maintainable source code that meets peer code review expectation
+* Deploy, operate work product in the embedded development environment
+* Technical documentation on software design, implementation, and validation
+
+
+Project Description
+The objective of this role aims to assist development of reusable software modules that enable basic audio controls and commands for Qualcomm Snapdragon SoC family. In the up-integration model, Bose automotive audio features shall meet high expectation to deliver platform agnostic SW modules in a multi-core SoC (ARM and Hexagon DSP cores) and enable close collaboration with partners without revealing Bose IP. The qualified candidate will participate in code development, performance benchmarking, and preparation of technical documentation.
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP\\_EEO\\_Supplement\\_Final\\_JRF\\_QA\\_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665\\_PrescribedNondiscriminationPostingLanguage\\_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.
+If you believe you need a reasonable accommodation, please send a note to wellbeing@bose.com","https://www.indeed.com/cmp/Bose","https://www.bose.com/en_us/careers.html","The Mountain","5,001 to 10,000","$1B to $5B (USD)","At Bose, we’re obsessed with what matters most — the little details that make a big difference, and the big details that astonish.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/270aaaf923063f9e4f6e34eda023bd83","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/41433ca1335ef9ce52642749df2fe98c","Lila Snyder ","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/0f2fa7e9db67d82781d32e073a794498"
+"3386bc32f47fad6c","indeed","https://www.indeed.com/viewjob?jk=3386bc32f47fad6c","https://jobs.smartrecruiters.com/Visa/744000014257604-software-engineer-intern","Software Engineer Intern","Visa","Atlanta, GA, US","internship","2024-09-16","direct_data","hourly",26.0,31.0,"USD",False,"","","Banks And Financial Services","","","**Company Description**  
+
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
+
+
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
+
+
+Join Visa: A Network Working for Everyone.
+
+ **Job Description**  
+
+We are seeking Software Engineer interns across our Technology organization. As an intern, you will take on meaningful work, engage in out-of-the-box problem solving, and participate in global case challenges and impactful initiatives. You will get the chance to work with multiple teams, systems, and products through a wide variety of data sources. From technology to business, we are looking for people who can innovate, collaborate and bring Visa into the next level of a rapidly evolving digital marketplace.
+
+
+During the internship, you will work on one or more hands-on projects with the team. Our summer internship also equips you with social and professional networking events and developmental workshops, designed to provide you the resources and training to have an impactful summer.
+
+
+Some examples of previous summer intern projects:
+
+* Self-serve deployment of Kafka clusters using Docker and Kubernetes with auto scale up capability
+* Creating a natural language Chatbot for searching CDISI knowledge base
+* Developing a prototype that would automate payments at gas stations
+* Automating process for removing duplicate compromised account numbers using low latency algorithms
+* Improving the usage of Visa Checkout across all mobile and web devices
+* Developing testing tools to identify errors in internal systems
+* Creating visual monitoring tools to uncover transaction errors
+* Analyze, design, code and unit test software solutions and enhancements for an application that applies business logic and routes digital currency of global transactions
+* Develop a robust app factory to be used to create hundreds of mobile banking applications for iOS and Android with a single click
+* Implementation of a single development lifecycle, from Analysis and Design, Build, QA, Security, and Deployment. Begin to learn best and secure coding practices and standards
+
+
+As a summer Intern, you will be placed in one of the technology organizations at Visa and specific assignments will depend on upon your skills sets, interest, and team needs.
+
+ **Qualifications**  
+
+Basic Qualifications
+
+* Students pursuing a Bachelor’s degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating December 2025 or later.
+* Strong communications skills, specifically, the absence of repeated grammatical or typographical errors, clear and concise written and spoken communications that demonstrate professional judgment.
+
+
+Preferred Qualifications
+
+* Proficiency in at least one programming language or technology including, but not limited, to Java, C/C++, C#, .NET, python, Javascript, HTML
+* Experience with Write utilities / automation tools using Selenium, Java, REST, Python, Groovy, and more
+* Familiarity with software testing principles
+* Solid understanding of software engineering concepts and methodologies
+* Document process, designs, test results, and analysis
+* Lead root cause analysis and track defect resolution to completion
+* Review and provide feedback on development code, test designs and test cases
+* Strong ability to collaborate
+* Highly driven, resourceful and results oriented
+* Good team player and excellent interpersonal skills
+* Good analytical and problem-solving skills
+* Demonstrated ability to lead and navigate through ambiguity
+
+  
+
+**Additional Information** **U.S. APPLICANTS ONLY:** The estimated hourly range for a new hire into this position is $26.00 to $31.00 which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.
+
+**Work Authorization:** Visa will not sponsor applicants for work visas in connection with this position. Future sponsorship will not be considered.
+
+**Work Hours:** Varies upon the needs of the department
+
+**Travel Requirements:** This position requires travel 5-10% of the time.
+
+**Mental/Physical Requirements:** This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.","https://www.indeed.com/cmp/Visa","http://www.visa.com","One Market Plaza, 5th Floor
+San Francisco, CA 94105","10,000+","more than $10B (USD)","Our Purpose is to... Uplift everyone, everywhere by being the best way to pay and be paid.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/424e574b0a65615c2d593985d0324d96","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/52fa222046d10eed5e173475a67552d4","Ryan McInerney","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/783685290bdbc9b7b7b8845d3e9bfa6d"
+"5a517e96b6decf79","indeed","https://www.indeed.com/viewjob?jk=5a517e96b6decf79","https://recruiting2.ultipro.com/AER1004AROI/JobBoard/57af4392-2729-4577-830f-6ec5d73ec6e0/OpportunityDetail?opportunityId=e38442bc-0f3c-4cc3-9fe8-c4767eb15ad2&postingId=e35d8d5b-609e-4ef7-8bad-c78b0d44a218","Intern: Software Engineering","Aerostar International","Sioux Falls, SD, US","fulltime","2024-09-16","direct_data","yearly",36485.0,46198.0,"USD",False,"","","","","","As a Software Engineer Intern, you will complete specified projects and tasks within internship or co-op period.
+
+
+**Guiding Principles**
+
+
+* **Do What is Right**-We have integrity and strong character We are trustworthy We follow through on our commitments We are respectful We value diverse backgrounds, approaches, and perspectives We take care of our team members and our customers.
+* **Dare Mighty Things**-We have courage We do what others think is impossible We love the challenge We are not afraid to take risks We have passion We have a bias for action We make things happen We succeed under adversity We are resilient We have grit.
+* **Make A Difference**-We make the world better with our products and solutions We are engaged in our community We each make a difference within our company We are lifelong learners, both professionally and personally We are servant leaders.
+* **Own It-We take responsibility** We are entrepreneurial We take pride in everything we do We check our egos at the door We delegate authority We empower team members to make decisions We learn from failure We support one another.
+* **Simplify**-We actively seek out way to simplify We value clarity and brevity We break plans down into actionable steps We streamline processes We are humble We make do with what we have We are resourceful.
+
+
+**Essential Functions:**
+
+
+* Complete projects as assigned within internship discipline.
+* Attend Aerostar sponsored training and educational seminars.
+* Engage and participate in Aerostar sponsored events.
+* Work closely with assigned mentor and manager to reach successful completion of internship.
+* Provide periodic updates to managers and peers on assigned project(s).
+* Complete summer end internship presentation.
+* Demonstrates the guiding principles of Aerostar.
+* May be called upon to perform comparable duties of a similar or related nature and/or assist in other areas as needed.
+* Learning, understanding, continuously improving, and promoting the division’s quality management system in accordance with ISO standards.
+
+
+**Education & Experience:**
+
+
+* College student or recent graduate in specified course of study necessary to be successful in defined internship position.
+* Ability to handle multiple projects and tasks simultaneously, without close supervision.
+* Problem-solving abilities. Ability to identify waste and creatively look for solutions.
+* Ability to work with a high level of confidentiality.
+* Capacity to be flexible and multitask.
+* Proficient with computers, including Microsoft Office.
+* Ability to communicate effectively with team members and leadership staff.
+
+
+***Physical Requirements****:* Required to sit, stand, walk, bend, and reach. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+***Working Conditions:*** Exposure to a normal office environment. Position may occasionally require entering a production environment, including exposure to noise, fumes, moving machinery, and varied temperatures.
+
+
+**Benefits:**
+
+
+
+Interns are eligible to participate in some of our benefits such as 401(k)-retirement plan, paid time off (PTO), gym membership reimbursement, and access to our Employee Assistance Program (EAP).
+
+
+**EEOC Statement:**
+
+
+
+Aerostar is committed to providing equal employment opportunity to all qualified employees and applicants. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, citizenship, ancestry, marital status, protected veteran status, disability status or any other status protected by federal, state, or local law.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.indeed.com/cmp/Aerostar-International","http://www.remotecontrolblimp.com","Sioux Falls, SD","201 to 500","$25M to $100M (USD)","","","","",""
+"4008843978","linkedin","https://www.linkedin.com/jobs/view/4008843978","","Campus Undergraduate - 2025 Technology Software Engineer Summer Internship Phoenix, AZ","American Express","Phoenix, AZ","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/american-express","","","","","","","","",""
+"4026361233","linkedin","https://www.linkedin.com/jobs/view/4026361233","","Software Engineer Intern (Hybrid) - June 2025","Staples","Framingham, MA","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/staples","","","","","","","","",""
+"4027652737","linkedin","https://www.linkedin.com/jobs/view/4027652737","","Software Engineer Intern","Visa","Ashburn, VA","","","","","","","","","","","","","","","https://www.linkedin.com/company/visa","","","","","","","","",""
+"4027655839","linkedin","https://www.linkedin.com/jobs/view/4027655839","","Application Software Engineer Intern","Mercury Marine","Fond du Lac, WI","","","","","","","","","","","","","","","https://www.linkedin.com/company/mercury-marine","","","","","","","","",""
+"1009448333080","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448333080","","Software Developer Intern","Tank Connection","Parsons, KS","","2024-09-16","direct_data","yearly",47151.0,74786.0,"USD",False,"","","","organic","","**Tank Connection is an international leader in the design, manufacturing and installation of liquid and dry bulk storage products and covers. Quality, experience, innovation, and customer service are hallmarks of our company. Tank Connection is an ISO9001 QMS Company that is also employee owned. You get the best of both worlds when an extensive ISO program is implemented by employee owners. As a result, Tank Connection has become the trusted name in storage around the world.**
+
+
+At Tank Connection, internships are designed to be a work-based experience that ensures mutual benefit for both the company and the intern. We aim to provide meaningful work, social and networking opportunities, exposure to company culture, comprehensive training, industry connections, and valuable feedback. This program embodies a shared purpose, fostering generational value. By recruiting top-notch talent, we are committed to shaping the future of Tank Connection, creating a lasting impact for both the organization and our interns.
+
+
+The Summer 2025 Internship Experience is a full time position **June 3, 2025 to August 1, 2025**. All interns will be based out of our main location in Parsons, Kansas. Anticipate the possibility of employer paid travel to project sites, events, and trainings during the internship.
+
+
+**Position Summary:** The Software Developer Intern position is responsible for the development, support, and maintenance of internally developed programs with a focus on legacy code maintenance and improvement. Development could include integration with existing systems, creation of brand new programs and systems, or a combination of both.
+
+**Duties and Responsibilities**
+
+* Develops and maintains new internal small-scale applications.
+* Provides support for internally developed programs on an as needed basis
+* Documents program functionality and configuration
+* Collaborates with other developers and other departments within the organization
+* Communicates between different departments regarding system requirements, program specifications, and other related information.
+* Helps define, establish, maintain, and adjust internal software development protocols, procedures, and standards.
+* May perform other duties as assigned.
+
+**Skills and Specifications:**
+
+* Experience with basic development processes.
+* Experience with any of the following languages:
+	+ C#/VB
+	+ C/C++
+	+ Java
+	+ Go
+	+ Python
+* Experience working with a team of different disciplines.
+* Experience with SQL databases.
+* Communication of technical requirements, concepts, or features with non-technical personnel.
+* Experience managing workload with project scopes, task lists, and other tools.
+* Willingness to learn new technologies, tools, or methodologies to perform tasks.
+
+**Education and Qualifications:**
+
+* College Level Junior or Senior
+* Desired Majors- Computer Science, Information Systems, Software Development
+* Web application development experience
+
+**Physical Requirements:** While performing the duties of Software Developer Intern, the employee is occasionally required to stand; walk; sit; use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; climb stairs; balance; stoop, kneel, crouch or crawl; talk or hear; taste or smell. The employee must occasionally lift and/or move up to 50 pounds. Specific vision abilities required by the job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+**Work Environment:** While performing the duties of Software Developer Intern, the employee is exposed to weather conditions prevalent at the time. The noise level in the work environment is usually moderate.
+
+***Limitations and Disclaimer:*** *The above job description is meant to describe the general nature and level of work being performed; it is not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for the position. All job requirements are subject to possible modification to reasonably accommodate individuals with disabilities. Some requirements may exclude individuals who pose a direct threat or significant risk to the health and safety of themselves or other employees.*
+
+*This job description in no way states or implies that these are the only duties to be performed by the employee occupying this position. Employees will be required to follow any other job-related instructions and to perform other job-related duties requested by their supervisor in compliance with Federal and State Laws.*
+
+*Requirements are representative of minimum levels of knowledge, skills and/or abilities. To perform this job successfully, the employee must possess the abilities or aptitudes to perform each duty proficiently. Continued employment remains on an “at-will” basis.*
+
+*REV-09/11/2024*","https://www.glassdoor.com/Overview/W-EI_IE1587288.htm","","","","","","https://media.glassdoor.com/sql/1587288/tank-connection-squarelogo-1502890523997.png","","",""
+"1009448127961","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448127961","","IT Intern – Software Developer","BOARD OF GOVERNORS of the FEDERAL RESERVE SYSTEM","Washington, DC","","2024-09-16","direct_data","yearly",80044.0,111444.0,"USD",False,"","","","organic","","**Minimum Education**  
+
+  
+
+Enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship.  
+
+  
+
+**Minimum Experience**  
+
+  
+
+0  
+
+  
+
+**Summary**
+
+
+The Federal Reserve Board (Board) provides students opportunities for career success. The Board’s Internship program is designed to provide valuable work experience for undergraduate and graduate students considering careers including, but not limited to, economics, finance and accounting, information systems, and data analysis. The Board believes that by combining academic endeavors with project-related work experience, qualified and capable college students can gain the practical knowledge need in a competitive global job market. Internships are paid positions with salaries commensurate with credit hours; internships may be in-person, remote or hybrid, depending on the needs of the team. Employment in the Board’s internship program is granted to U.S. citizens. Applicants must be currently enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship. Interns receive a syllabus or research project plan outlining their projects and goals for the internship. Interns are assigned a supervisor or mentor to guide them through their internship, and regular check-in meetings with their manager to manage performance expectations and assist with learning goals. Interns have access to a wide range of training programs and events for professional development purposes.
+
+**Position Requirements**
+As a Software Developer intern, you will work in the Application Development area of the Information Technology Division and will provide support to software development teams working on a variety of automation projects. You will work closely with team members to develop software solutions to meet end-user requirements.
+
+
+**What You’ll Be Doing**
+
+
+*Software Developer interns support teams in*
+
+
+* Developing web and mobile applications
+* Discovering and implementing tools that enhance innovation and modernization
+* Designing website layouts that satisfy end-user requirements and web design principles
+
+
+* Building database queries to extract data required for software solutions, and much more!
+
+
+*Previous Software Developer interns had the opportunity to contribute to projects related to*
+
+
+* Artificial Intelligence / Machine Learning (AI/ML)
+* Automation Testing
+
+
+* Web Application Programming Interface (API) Development, and
+
+
+* Data Analytics
+
+
+
+Through these projects, you will gain experience with programming languages and databases and system development life cycle methodologies, such as Agile and SCRUM, to help determine if a career in software development is for you.
+
+
+**How You’ll Make an Impact**
+
+  
+
+
+
+Our mission matters. It includes promoting a strong economy for the American people by fostering stability, integrity, and efficiency of the nations’ monetary, financial, and payment systems. As an intern at the Federal Reserve Board, you will have the opportunity to contribute to this mission.  
+
+
+**Education Requirements:** The IT Internship requires a minimum of two years of college coursework in computer science, information systems, digital media, or other related disciplines.  
+
+
+
+This internship may be completed remotely, or in a hybrid capacity at the discretion of the selected candidate.  
+
+
+
+US Citizenship is required for all Board internships and applicants must be current students, graduating from their program fall 2025 or later.**We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.**","https://www.glassdoor.com/Overview/W-EI_IE142008.htm","","","","","","https://media.glassdoor.com/sql/142008/federal-reserve-board-squarelogo-1378487518664.png","","",""
+"993327ff5ab4e568","indeed","https://www.indeed.com/viewjob?jk=993327ff5ab4e568","https://www.applicantpro.com/openings/group1/jobs/3497977-6786","Software Developer Intern","Group One Trading","Chicago, IL, US","internship","2024-09-16","direct_data","yearly",90676.0,114816.0,"USD",False,"","","","","","Software Developer Intern
+
+
+Location: Chicago
+
+**The Opportunity**
+===================
+
+
+Group One Trading, a dynamic options trading firm, is actively seeking highly-motivated people who are interested in learning and getting hands-on experience with electronic trading systems. Our system is built on the .NET platform using C#. The system has enough variety to challenge and interest anyone: an information-dense user interface, a high-throughput, low latency parallel computational core, service-oriented architecture, and interfaces to exchanges' market data and execution systems.
+
+**Who We Are**
+==============
+
+
+We are committed to creating a diverse environment and are proud to be an equal opportunity employer. At Group One, we value transparency and collaboration coming from unique perspectives and backgrounds. We strive to create a workplace in which all employees have an opportunity to participate and contribute to the success of the business.
+
+**What We Do**
+==============
+
+
+Group One is a proprietary trading firm specializing in market making and liquidity providing strategies in options markets. Our traders provide competitive liquidity across a broad range of securities by managing portfolios of several hundred issues and simultaneously streaming quotes across multiple exchanges. Our systems and network infrastructure are vital in ensuring success.
+
+**The Skill Set**
+=================
+
+
+During this internship, you will be mentored by senior developers and gain exposure to the business of equity options trading. You will gain real-world experience with a team that develops proprietary software in an ever-changing, fast-paced, and competitive environment.
+
+
+A broad, multi-platform skill set will help you be successful in this role, but there will be plenty of learning opportunities no matter how many of these skills you bring in with you. We also encourage applicants with non-traditional backgrounds to apply.
+
+* Completing or working towards a BS, MS, or Ph.D. in Computer Science, Computer Engineering, or a related technical field.
+* Familiarity with a C-style object-oriented language: C#, Java, C++, or Objective-C.
+* Solid Computer Science and software development fundamentals.
+* Desire to learn and grow as a software developer.
+* Ability to effectively communicate and collaborate with colleagues across different functional units and locations.
+
+**Within 1 Month, You'll**
+==========================
+
+* Complete your initial orientation, become familiar with our environment, our infrastructure, and our business.
+* Learn the roles and skillsets of your Dev teammates to discern and utilize the best advice and information for yourself and others.
+
+**Within 3 Months, You'll**
+===========================
+
+* Engage and contribute directly to projects with real implications for our traders and company.
+
+**The Benefits**
+================
+
+
+We offer a competitive compensation package which includes company-paid housing or housing stipend, individualized mentorship, fresh fruit and snacks daily, casual dress environment, social events, and more! In-person interview expenses for travel and childcare will be reimbursed by Group One.","https://www.indeed.com/cmp/Group-One-Trading","https://www.group1.com","Chicago, IL","51 to 200","$25M to $100M (USD)","","","","",""
+"316af6e997d16c25","indeed","https://www.indeed.com/viewjob?jk=316af6e997d16c25","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=22f66d67-61ff-46d3-b0f6-919a747c65f3&ccId=19000101_000001&jobId=525652&source=IN&lang=en_US","Software Developer Intern","Tank Connection","Parsons, KS, US","internship","2024-09-16","direct_data","yearly",31767.0,40224.0,"USD",False,"","","","","","**Tank Connection is an international leader in the design, manufacturing and installation of liquid and dry bulk storage products and covers. Quality, experience, innovation, and customer service are hallmarks of our company. Tank Connection is an ISO9001 QMS Company that is also employee owned. You get the best of both worlds when an extensive ISO program is implemented by employee owners. As a result, Tank Connection has become the trusted name in storage around the world.**
+
+
+At Tank Connection, internships are designed to be a work-based experience that ensures mutual benefit for both the company and the intern. We aim to provide meaningful work, social and networking opportunities, exposure to company culture, comprehensive training, industry connections, and valuable feedback. This program embodies a shared purpose, fostering generational value. By recruiting top-notch talent, we are committed to shaping the future of Tank Connection, creating a lasting impact for both the organization and our interns.
+
+
+The Summer 2025 Internship Experience is a full time position **June 3, 2025 to August 1, 2025**. All interns will be based out of our main location in Parsons, Kansas. Anticipate the possibility of employer paid travel to project sites, events, and trainings during the internship.
+
+
+**Position Summary:** The Software Developer Intern position is responsible for the development, support, and maintenance of internally developed programs with a focus on legacy code maintenance and improvement. Development could include integration with existing systems, creation of brand new programs and systems, or a combination of both.
+
+**Duties and Responsibilities**
+
+* Develops and maintains new internal small-scale applications.
+* Provides support for internally developed programs on an as needed basis
+* Documents program functionality and configuration
+* Collaborates with other developers and other departments within the organization
+* Communicates between different departments regarding system requirements, program specifications, and other related information.
+* Helps define, establish, maintain, and adjust internal software development protocols, procedures, and standards.
+* May perform other duties as assigned.
+
+**Skills and Specifications:**
+
+* Experience with basic development processes.
+* Experience with any of the following languages:
+	+ C#/VB
+	+ C/C++
+	+ Java
+	+ Go
+	+ Python
+* Experience working with a team of different disciplines.
+* Experience with SQL databases.
+* Communication of technical requirements, concepts, or features with non-technical personnel.
+* Experience managing workload with project scopes, task lists, and other tools.
+* Willingness to learn new technologies, tools, or methodologies to perform tasks.
+
+**Education and Qualifications:**
+
+* College Level Junior or Senior
+* Desired Majors- Computer Science, Information Systems, Software Development
+* Web application development experience
+
+**Physical Requirements:** While performing the duties of Software Developer Intern, the employee is occasionally required to stand; walk; sit; use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; climb stairs; balance; stoop, kneel, crouch or crawl; talk or hear; taste or smell. The employee must occasionally lift and/or move up to 50 pounds. Specific vision abilities required by the job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+**Work Environment:** While performing the duties of Software Developer Intern, the employee is exposed to weather conditions prevalent at the time. The noise level in the work environment is usually moderate.
+
+***Limitations and Disclaimer:*** *The above job description is meant to describe the general nature and level of work being performed; it is not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for the position. All job requirements are subject to possible modification to reasonably accommodate individuals with disabilities. Some requirements may exclude individuals who pose a direct threat or significant risk to the health and safety of themselves or other employees.*
+
+*This job description in no way states or implies that these are the only duties to be performed by the employee occupying this position. Employees will be required to follow any other job-related instructions and to perform other job-related duties requested by their supervisor in compliance with Federal and State Laws.*
+
+*Requirements are representative of minimum levels of knowledge, skills and/or abilities. To perform this job successfully, the employee must possess the abilities or aptitudes to perform each duty proficiently. Continued employment remains on an “at-will” basis.*
+
+*REV-09/11/2024*","https://www.indeed.com/cmp/Tank-Connection","http://www.tankconnection.com","3609 North 16th Street 
+Parsons, KS  67357 ","201 to 500","$100M to $500M (USD)","","","","",""
+"0f76ad8014f69a34","indeed","https://www.indeed.com/viewjob?jk=0f76ad8014f69a34","https://frbog.taleo.net/careersection/1/jobdetail.ftl?job=24452","IT Intern – Software Developer","Board of Governors of the Federal Reserve System","Washington, DC, US","internship","2024-09-16","direct_data","yearly",40180.0,50877.0,"USD",True,"","","","","","**Minimum Education**  
+
+  
+
+Enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship.  
+
+  
+
+**Minimum Experience**  
+
+  
+
+0  
+
+  
+
+**Summary**
+
+
+The Federal Reserve Board (Board) provides students opportunities for career success. The Board’s Internship program is designed to provide valuable work experience for undergraduate and graduate students considering careers including, but not limited to, economics, finance and accounting, information systems, and data analysis. The Board believes that by combining academic endeavors with project-related work experience, qualified and capable college students can gain the practical knowledge need in a competitive global job market. Internships are paid positions with salaries commensurate with credit hours; internships may be in-person, remote or hybrid, depending on the needs of the team. Employment in the Board’s internship program is granted to U.S. citizens. Applicants must be currently enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship. Interns receive a syllabus or research project plan outlining their projects and goals for the internship. Interns are assigned a supervisor or mentor to guide them through their internship, and regular check-in meetings with their manager to manage performance expectations and assist with learning goals. Interns have access to a wide range of training programs and events for professional development purposes.
+
+**Position Requirements**
+As a Software Developer intern, you will work in the Application Development area of the Information Technology Division and will provide support to software development teams working on a variety of automation projects. You will work closely with team members to develop software solutions to meet end-user requirements.
+
+
+**What You’ll Be Doing**
+
+
+*Software Developer interns support teams in*
+
+
+* Developing web and mobile applications
+* Discovering and implementing tools that enhance innovation and modernization
+* Designing website layouts that satisfy end-user requirements and web design principles
+
+
+* Building database queries to extract data required for software solutions, and much more!
+
+
+*Previous Software Developer interns had the opportunity to contribute to projects related to*
+
+
+* Artificial Intelligence / Machine Learning (AI/ML)
+* Automation Testing
+
+
+* Web Application Programming Interface (API) Development, and
+
+
+* Data Analytics
+
+
+
+Through these projects, you will gain experience with programming languages and databases and system development life cycle methodologies, such as Agile and SCRUM, to help determine if a career in software development is for you.
+
+
+**How You’ll Make an Impact**
+
+  
+
+
+
+Our mission matters. It includes promoting a strong economy for the American people by fostering stability, integrity, and efficiency of the nations’ monetary, financial, and payment systems. As an intern at the Federal Reserve Board, you will have the opportunity to contribute to this mission.  
+
+
+**Education Requirements:** The IT Internship requires a minimum of two years of college coursework in computer science, information systems, digital media, or other related disciplines.  
+
+
+
+This internship may be completed remotely, or in a hybrid capacity at the discretion of the selected candidate.  
+
+
+
+US Citizenship is required for all Board internships and applicants must be current students, graduating from their program fall 2025 or later.**We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.**","https://www.indeed.com/cmp/Board-of-Governors-of-the-Federal-Reserve-System","","","","","","","","",""
+"4025331874","linkedin","https://www.linkedin.com/jobs/view/4025331874","","Software Developer Intern","Group One Trading, LP","Chicago, IL","","","","","","","","","","","","","","","https://www.linkedin.com/company/group-one-trading-lp","","","","","","","","",""
+"4025343640","linkedin","https://www.linkedin.com/jobs/view/4025343640","","SOFTWARE DEVELOPER INTERN - Summer 2025","Nicolet National Bank","Green Bay, WI","","","","","","","","","","","","","","","https://www.linkedin.com/company/nicolet-national-bank","","","","","","","","",""
+"4025210072","linkedin","https://www.linkedin.com/jobs/view/4025210072","","Summer 2025 Intern - .NET Software Developer (remote)","RemoteWorker US","Reston, VA","","","","","","","","","","","","","","","https://www.linkedin.com/company/remoteworkerus","","","","","","","","",""
+"4027604834","linkedin","https://www.linkedin.com/jobs/view/4027604834","","Software Developer Intern","Dayton Freight Lines, Inc.","Dayton, OH","","","","","","","","","","","","","","","https://www.linkedin.com/company/dayton-freight-lines","","","","","","","","",""
+"1009448206223","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448206223","","Composition Programmer Intern","RR Donnelley","Logan, UT","","2024-09-16","direct_data","hourly",20.0,20.0,"USD",False,"","","","organic","","**Company Description**  
+
+RRD is a leading global provider of marketing, packaging, print, and supply chain solutions that elevate engagement across the complete customer journey. The company offers the industry’s most trusted portfolio of creative execution and world-wide business process consulting, with services designed to lower environmental impact. With 22,000 clients, including 93% of the Fortune 100, and 32,000 employees across 28 countries, RRD brings the expertise, execution, and scale designed to transform customer touchpoints into meaningful moments of impact.
+
+ **Job Description** **THIS IS A HYBRID POSITION.**
+
+  
+
+The Intern will support production applications and work with customers, business analysts, and team members to understand business requirements.
+
+  
+
+As a Programmer Intern, the goal of the internship will be to work through a series of application enhancements as prioritized and assigned by IT team leadership.
+
+  
+
+The intern will be responsible for full lifecycle delivery of the enhancements, from initial analysis and design through development, to coordinating testing with business owners, and delivery.
+
+ **Qualifications**  
+
+* The intern candidate should be a full-time student at an accredited college or university pursuing a Bachelor or higher degree in Computer Science or related discipline.
+* Candidate will be versed in all phases of software development life cycle.
+* Familiarity or exposure to Unix/Linux platforms, Perl, Python or Kornshell is a plus .
+* Candidate will manipulate PDF,XML,AFP,JSON and raw data files, create reports from data components, troubleshoot issues and validate output.
+* Strong communication and team skills.
+* Ability to work independently or as part of a small team
+* Positive attitude and outstanding customer service orientation.
+* Accuracy and attention to detail.
+
+  
+
+**Additional Information**  
+
+The rate of pay for this role at the noted location is $20.00 / hour.
+
+
+RRD is an Equal Opportunity Employer, including disability/veterans","https://www.glassdoor.com/Overview/W-EI_IE554.htm","","","","","","https://media.glassdoor.com/sql/554/r-r-donnelley-squareLogo-1632450638905.png","","",""
+"b422568ddfbdce71","indeed","https://www.indeed.com/viewjob?jk=b422568ddfbdce71","https://jobs.smartrecruiters.com/RRDonnelley/744000014259457-composition-programmer-intern","Composition Programmer Intern","RR Donnelley","Logan, UT, US","fulltime","2024-09-16","","hourly","","","USD",False,"","","","","","**Company Description**  
+
+RRD is a leading global provider of marketing, packaging, print, and supply chain solutions that elevate engagement across the complete customer journey. The company offers the industry’s most trusted portfolio of creative execution and world-wide business process consulting, with services designed to lower environmental impact. With 22,000 clients, including 93% of the Fortune 100, and 32,000 employees across 28 countries, RRD brings the expertise, execution, and scale designed to transform customer touchpoints into meaningful moments of impact.
+
+ **Job Description** **THIS IS A HYBRID POSITION.**
+
+  
+
+The Intern will support production applications and work with customers, business analysts, and team members to understand business requirements.
+
+  
+
+As a Programmer Intern, the goal of the internship will be to work through a series of application enhancements as prioritized and assigned by IT team leadership.
+
+  
+
+The intern will be responsible for full lifecycle delivery of the enhancements, from initial analysis and design through development, to coordinating testing with business owners, and delivery.
+
+ **Qualifications**  
+
+* The intern candidate should be a full-time student at an accredited college or university pursuing a Bachelor or higher degree in Computer Science or related discipline.
+* Candidate will be versed in all phases of software development life cycle.
+* Familiarity or exposure to Unix/Linux platforms, Perl, Python or Kornshell is a plus .
+* Candidate will manipulate PDF,XML,AFP,JSON and raw data files, create reports from data components, troubleshoot issues and validate output.
+* Strong communication and team skills.
+* Ability to work independently or as part of a small team
+* Positive attitude and outstanding customer service orientation.
+* Accuracy and attention to detail.
+
+  
+
+**Additional Information**  
+
+The rate of pay for this role at the noted location is $20.00 / hour.
+
+
+RRD is an Equal Opportunity Employer, including disability/veterans","https://www.indeed.com/cmp/Rr-Donnelley","https://www.rrd.com/","Chicago, IL","5,001 to 10,000","$5B to $10B (USD)","RRD connects brands to customers across the entire breadth of the customer journey - from marketing programs to critical business operations.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83e00087eb0d530490f32d3e76c5639d","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/511488d70b087ae8115720b95a9185e7","Thomas J. Quinlan",""
+"4027592431","linkedin","https://www.linkedin.com/jobs/view/4027592431","","Composition Programmer Intern","RR Donnelley","St Charles, IL","","","","","","","","","","","","","","","https://www.linkedin.com/company/rr-donnelley","","","","","","","","",""

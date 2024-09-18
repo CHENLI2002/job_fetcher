@@ -1,0 +1,2214 @@
+"id","site","job_url","job_url_direct","title","company","location","job_type","date_posted","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","company_industry","listing_type","emails","description","company_url","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","logo_photo_url","banner_photo_url","ceo_name","ceo_photo_url"
+"1009448331019","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448331019","","Embedded Software Engineer Intern","Bose","Framingham, MA","","2024-09-16","direct_data","yearly",95507.0,113780.0,"USD",False,"","","","organic","Wellbeing@bose.com, wellbeing@bose.com","You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. We’ve dedicated ourselves to improving it for nearly 60 years. And we’re passionate down to our bones about making whatever you’re listening to a little more magical.
+The engineering team at Bose is a thriving, passionate, deeply skilled team of professionals from a broad range of disciplines and experiences, who share a common goal—to create products that provide transformative sound experiences.
+Job Description
+At Bose, we are passionate about helping people reach their fullest human potential so that they can feel more, do more, and be more. Working as a team member of Bose Software Organization (BSO), come astonish our cutting-edge audio systems with your outstanding ability to develop algorithms and software for a superlative audio experience in a car. Bose intern/co-op program aims to provide students with hands-on opportunities to solve real-world problems with software skills. In addition to enhancing software development skills, you will also collaborate with research, acoustic tuning teams to see the product life cycle. Our team strives to make every intern/co-op experience rewarding, practical, and seamless to successfully launch your career after graduation.
+Education* BS student minimum, graduate student preferred
+
+
+Skills* Coursework in embedded systems, real-time operating system (RTOS), algorithms, or computer architecture
+* Experience in C, Python, and MATLAB
+* Experience in algorithm development, validation, performance benchmarking, and debug
+* Knowledge of digital signal processing (DSP) algorithms for audio applications
+
+
+Responsibilities* Develop prototype SW modules that meet system design requirements
+* Write high-quality, maintainable source code that meets peer code review expectation
+* Deploy, operate work product in the embedded development environment
+* Technical documentation on software design, implementation, and validation
+
+
+Project Description
+The objective of this role aims to assist development of reusable software modules that enable basic audio controls and commands for Qualcomm Snapdragon SoC family. In the up-integration model, Bose automotive audio features shall meet high expectation to deliver platform agnostic SW modules in a multi-core SoC (ARM and Hexagon DSP cores) and enable close collaboration with partners without revealing Bose IP. The qualified candidate will participate in code development, performance benchmarking, and preparation of technical documentation.
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP\\_EEO\\_Supplement\\_Final\\_JRF\\_QA\\_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665\\_PrescribedNondiscriminationPostingLanguage\\_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.
+If you believe you need a reasonable accommodation, please send a note to wellbeing@bose.com","https://www.glassdoor.com/Overview/W-EI_IE3098.htm","","","","","","https://media.glassdoor.com/sql/3098/bose-squarelogo-1582730435570.png","","",""
+"1009448163231","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448163231","","Software Engineer Intern","Visa","Atlanta, GA","","2024-09-16","direct_data","hourly",26.0,31.0,"USD",False,"","","","organic","","**Company Description**  
+
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
+
+
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
+
+
+Join Visa: A Network Working for Everyone.
+
+ **Job Description**  
+
+We are seeking Software Engineer interns across our Technology organization. As an intern, you will take on meaningful work, engage in out-of-the-box problem solving, and participate in global case challenges and impactful initiatives. You will get the chance to work with multiple teams, systems, and products through a wide variety of data sources. From technology to business, we are looking for people who can innovate, collaborate and bring Visa into the next level of a rapidly evolving digital marketplace.
+
+
+During the internship, you will work on one or more hands-on projects with the team. Our summer internship also equips you with social and professional networking events and developmental workshops, designed to provide you the resources and training to have an impactful summer.
+
+
+Some examples of previous summer intern projects:
+
+* Self-serve deployment of Kafka clusters using Docker and Kubernetes with auto scale up capability
+* Creating a natural language Chatbot for searching CDISI knowledge base
+* Developing a prototype that would automate payments at gas stations
+* Automating process for removing duplicate compromised account numbers using low latency algorithms
+* Improving the usage of Visa Checkout across all mobile and web devices
+* Developing testing tools to identify errors in internal systems
+* Creating visual monitoring tools to uncover transaction errors
+* Analyze, design, code and unit test software solutions and enhancements for an application that applies business logic and routes digital currency of global transactions
+* Develop a robust app factory to be used to create hundreds of mobile banking applications for iOS and Android with a single click
+* Implementation of a single development lifecycle, from Analysis and Design, Build, QA, Security, and Deployment. Begin to learn best and secure coding practices and standards
+
+
+As a summer Intern, you will be placed in one of the technology organizations at Visa and specific assignments will depend on upon your skills sets, interest, and team needs.
+
+ **Qualifications**  
+
+Basic Qualifications
+
+* Students pursuing a Bachelor’s degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating December 2025 or later.
+* Strong communications skills, specifically, the absence of repeated grammatical or typographical errors, clear and concise written and spoken communications that demonstrate professional judgment.
+
+
+Preferred Qualifications
+
+* Proficiency in at least one programming language or technology including, but not limited, to Java, C/C++, C#, .NET, python, Javascript, HTML
+* Experience with Write utilities / automation tools using Selenium, Java, REST, Python, Groovy, and more
+* Familiarity with software testing principles
+* Solid understanding of software engineering concepts and methodologies
+* Document process, designs, test results, and analysis
+* Lead root cause analysis and track defect resolution to completion
+* Review and provide feedback on development code, test designs and test cases
+* Strong ability to collaborate
+* Highly driven, resourceful and results oriented
+* Good team player and excellent interpersonal skills
+* Good analytical and problem-solving skills
+* Demonstrated ability to lead and navigate through ambiguity
+
+  
+
+**Additional Information** **U.S. APPLICANTS ONLY:** The estimated hourly range for a new hire into this position is $26.00 to $31.00 which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.
+
+**Work Authorization:** Visa will not sponsor applicants for work visas in connection with this position. Future sponsorship will not be considered.
+
+**Work Hours:** Varies upon the needs of the department
+
+**Travel Requirements:** This position requires travel 5-10% of the time.
+
+**Mental/Physical Requirements:** This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.","https://www.glassdoor.com/Overview/W-EI_IE3035.htm","","","","","","https://media.glassdoor.com/sql/3035/visa-inc-squareLogo-1627484054817.png","","",""
+"1009446747930","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446747930","","Comcast Software Engineer Intern","Comcast Corporation","New York, NY","","2024-09-14","direct_data","hourly",40.0,40.0,"USD",False,"","","","organic","","FreeWheel, a Comcast company, provides comprehensive ad platforms for publishers, advertisers, and media buyers. Powered by premium video content, robust data, and advanced technology, we’re making it easier for buyers and sellers to transact across all screens, data types, and sales channels. As a global company, we have offices in nine countries and can insert advertisements around the world. **Job Summary**
+
+
+This job code is to be used for internships and co-ops. It is not to be used for temporary or contract workers.**Job Description**
+
+**Program** **Overview**
+
+
+Discover opportunities designed to set your career in motion! The Comcast internship/co-op program will help you cultivate meaningful relationships, develop strong interpersonal and business skills, gain exposure to the day-to-day operations of a Fortune 40 media and technology company, and receive mentorship opportunities to expand your professional network.
+
+
+This program immerses students into the daily operation of a contemporary media and technology company while working side-by-side with Comcast’s top innovators. The student becomes an integral part of the Comcast team working on creative, innovative, and thought-provoking projects within various business units.
+
+**Organization** **& Team****Overview**
+
+
+FreeWheel, a part of Comcast Advertising, works at the intersection of media and technology. Our solutions and systems are used across the entire Ad Tech ecosystem, and our teams are continually developing and delivering products that transform the advertising space.
+
+
+The OptiML (Mathematical optimization and Machine Learning) team develops, deploys, and supports ML and Optimization processes for forecasting, planning, ad scheduling, and inventory buying applications in the FreeWheel ad serving platform. We use machine learning and mathematical optimization to help supply-side clients characterize, forecast, and manage their supply; and to help internal and external demand-side clients deliver their campaigns successfully. Our team is full of mathematicians, engineers, and people who love data and the problems it can help solve.
+
+**Role** **Description**
+
+
+Do you like solving hard problems and want to work, learn, and grow alongside a great team? Do you ever wonder why you saw a certain ad, or how and why great content is made?
+
+
+As a Machine Learning Engineer intern on the OptiML team you’ll get to work on hard problems in the advertising space and learn how data, optimization, and machine learning can be leveraged to solve these problems.
+
+**What are some interesting problems the** **student** **will work on?**
+
+
+In your role you’ll work on creating and deploying applications to solve advertising business problems. You’ll be writing code for cloud-first applications handling huge amounts of data, all to solve critical business problems that help support the advertising ecosystem. As a result, we as consumers continue to get great content.
+
+**Where can this** **student** **make an impact?**
+
+
+You’ll be working with a great team of Machine Learning Engineers to deliver applications and solutions to business problems that will have a lasting effect on FreeWheel’s business, how our clients’ advertising dollars are spent, and how our clients’ inventory (ad space) is optimized. At the end of the internship you’ll be able to look back at all that you learned about advertising, tech, cloud computing, as well as data engineering and machine learning and optimization.
+
+**Job Responsibilities**
+
+
+Responsibilities include but are not limited to:
+
+* Process and analyze data for use in forecasting and optimization
+* Visualization, dashboard, and monitoring development
+* Develop machine learning models for forecasting
+* Other duties and responsibilities as assigned.
+ **Preferred****Skills**
+
+* Machine Learning
+* Big Data Analytics
+* Python
+* Preferred Majors: Computer Science, Mathematics, Applied Mathematics, Engineering, Data Science
+ **Minimum** **Qualifications** **and Eligibility Requirements**
+
+* Currently pursuing a bachelor’s degree from a United States-based college or university
+* Rising Junior or Rising Senior only (must have a graduation date between Winter 2025- Spring 2027)
+* Returning to degree-program (for at least a semester) after the completion of the summer internship (meaning, student must be returning to school for Fall 2025 semester before graduating)
+* Available to work 40 hours per week over the course of the summer program- June 2 through August 15, 2025
+* Authorized to work in the United States with no current or future sponsorship needs
+* Available to report in-person to the work location on the job posting (unless virtual offering)
+* Comcast is an Affirmative Action/EEO employer M/F/D/V
+  
+
+Comcast is proud to be an equal opportunity workplace. We will consider all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, veteran status, genetic information, or any other basis protected by applicable law.
+
+ **Salary:**
+
+
+Base Pay: $40.00  
+
+  
+
+The application window is 30 days from the date job is posted, unless the number of applicants requires it to close sooner or later.
+
+  
+
+Additionally, Comcast provides best-in-class Benefits to eligible employees. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.
+
+ **Relevant Work Experience**
+
+
+0-2 Years","https://www.glassdoor.com/Overview/W-EI_IE1280.htm","","","","","","https://media.glassdoor.com/sql/1280/comcast-squarelogo-1552675219892.png","","",""
+"1009446749423","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446749423","","Software Engineer Intern (Hybrid) - June 2025","Staples, Inc.","Framingham, MA","","2024-09-14","direct_data","yearly",46266.0,69721.0,"USD",False,"","","","organic","","**Staples is business to business. You’re what binds us together.**
+
+
+
+We’re searching for you: fresh talent with new ideas, innovation, passion, and drive to bring to Staples. We have student and graduate opportunities where you’ll help the Staples, Inc. organization be more successful and productive while building a purposeful career. Whether you are looking for a summer internship, co-op, or an entry-level role, we’ll help you develop the technical and soft skills you need to thrive in the future.
+
+
+***This intern position requires you to be in a hybrid working model (at least 3 days in the office, and 2 days remote) based at the Staples, Inc. Corporate Headquarters in Framingham, MA. This position is*** ***NOT*** ***eligible for CPT/OPT status.***
+
+
+**Target Start Date:** June 2, 2025 - August 15, 2025 (11-week program)
+
+
+**Potential internship opportunities for June 2025 in the following areas: Technology/Engineering**
+
+
+* Software Engineer Interns
+* Cloud Services Intern
+
+
+**What you bring to the table:**
+
+
+* Collaborative – able to build partnerships and work collaboratively with others to meet shared objectives
+* Customer Focused – able to identify and understand internal or external customer needs and interests and deliver customer-centric solutions
+* Inclusive – dedicated to fostering an inclusive environment consisting of diverse individuals from varying backgrounds and cultures
+* Innovative – develop new insights; question conventional approaches; encourage new ideas; design and implement new solutions
+* Self-Developer – actively seeks new ways to grow and be challenged using both formal and informal development channels
+
+
+**What you’ll be doing: Any one of the following as a main skill set**
+
+
+* Create/Update User Interfaces as per the functional needs using the latest technologies such as React JS, Node JS, and Angular JS.
+* Create/Update REST APIs to achieve a specific functionality using the latest Java technologies such as Spring Boot, Core Java, Micro Services, etc.
+* Knowledge of Relational databases such as Oracle/MYSQL and ability to write SQL Queries.
+* Knowledge of CICD and Dev Ops technologies and any related Programming language like Python or Java
+* Knowledge or Interest in any QA automation like Selenium using Java or any other programming language
+* Linux administrative skills, shell scripting, or Python
+* One of the following cloud computing platforms: Azure, AWS, or GCP
+
+
+**What’s needed- Basic Qualifications:**
+
+
+* Actively pursuing a bachelor's or master’s degree
+* Must be a rising senior enrolled as a full-time student carrying a minimum of 12 college credits
+* Strong Microsoft Office skills
+* Strong Excel skills: ability to use a pivot table
+
+
+ **What’s needed - Preferred Qualifications:**
+
+
+* Enjoy working in teams and being highly communicative.
+* Able to multi-task and be flexible to new initiatives.
+* Adaptability, flexibility, and willingness to learn new things quickly
+
+
+Interested in joining the team? Check out our perks and benefits!
+
+
+
+At Staples, “inclusion” is an action word. It represents what we do to ensure that all employees feel valued and supported to contribute to their fullest potential. When we operate inclusively, diversity naturally follows. This is why we work hard to foster an inclusive culture, as we seek employees with unique and varied perspectives and areas of expertise. The result is a better workplace and innovative thinking that helps us exceed our customers’ expectations - through the power of the people behind our iconic brand.
+
+
+Staples is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, gender, sexual orientation, ancestry, national origin, veteran status, disability, or any other classification protected by federal, state, or local law.","https://www.glassdoor.com/Overview/W-EI_IE1909.htm","","","","","","https://media.glassdoor.com/sql/1909/staples-squarelogo-1561571335904.png","","",""
+"de1d0e08b1e8b879","indeed","https://www.indeed.com/viewjob?jk=de1d0e08b1e8b879","https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Application-Software-Engineer-Intern_JR-044279","Application Software Engineer Intern","Brunswick","Fond du Lac, WI, US","fulltime","2024-09-16","direct_data","yearly",46420.0,58778.0,"USD",False,"","","","","hrsharedservices@brunswick.com, hrsharedservices@brunswick.com, HRSharedServices@brunswick.com","*Are you ready for what’s next?**Come explore opportunities within* *Brunswick, a global marine leader* *committed to challenging conventions and innovating next-generation technologies that transform experiences on the water and beyond. Brunswick believes “Next Never Rests™,” and we offer a variety of exciting careers and growth opportunities within united teams defining the future of marine recreation.*
+Mercury Marine is seeking a Software Engineering intern to take part in the design and development of software to interact with engine hardware. This is an Engineering position that will involve working on Desktop, Mobile, Web and Cloud applications. You will be part of a high-performance team that values collaboration, quality, and getting the job done. You are our ideal candidate if you are energetic and have a passion for developing high quality software solutions.
+As a Mobile Application Software Engineer Intern you may have the opportunity to:* Architect, design, develop and implement mission critical applications using .NET.
+* Design and develop robust, scalable, high performing production applications with users across the globe.
+* Build internal systems and support team needs with your domain expertise.
+* Leverage your existing skills while learning and implementing new technologies.
+* Work closely with various engineering teams, and business stakeholders.
+* Work in and around watercraft.
+
+
+In addition to a great hands-on learning experience you will also acquire the skills needed to:* Select and apply standard engineering techniques, procedures, criteria, and judgment in a real-world, hands-on, cross-functional environment.
+* Become experienced in developing functional requirements and user stories, data analysis, documenting and authenticating testing results, and technical report writing.
+
+
+Qualifications of a successful candidate:* Current enrollment in a BS program with a major in Computer Engineering, Software Engineering, or equivalent.
+* Experience with cross-platform iOS and Android mobile development, cloud technologies, web applications and services, and embedded firmware including C#, Microsoft suite (.NET MAUI, Azure), Bluetooth, and JSON a plus.
+* Minimum second semester sophomore status with 48 completed credits
+* Availability to work full-time (40 or more hours per week) during the summer of 2025
+* Creative ability with strong software aptitude
+* Permanent US Work Authorization required
+
+*Next is Now!* *We value growth and development, recognizing that people come with a wealth of experience and talent beyond just the technical requirements of a job. If your experience is close to what you see listed here, please still consider applying.*
+Brunswick is an Equal Opportunity Employer and considers all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or any other characteristic protected by federal, state, or local law. Diversity of experience and skills combined with passion is key to innovation and inspiration and we encourage individuals from all backgrounds to apply. If you require accommodation during the application or interview process, please contact hrsharedservices@brunswick.com for support.
+For more information about EEO laws, - click here
+Brunswick and Workday Privacy Policies
+Brunswick does not accept applications, inquiries or solicitations from unapproved staffing agencies or vendors. For help, please contact our support team at: hrsharedservices@brunswick.com or 866-278-6942.
+All job offers will come to you via the candidate portal you create when applying through a posted position through https:///www.brunswick.com/careers. If you are ever unsure about what is being required of you during the application process or its source, please contact HR Shared Services at 866-278-6942 or HRSharedServices@brunswick.com.
+#Brunswick Corporation - Mercury Marine","https://www.indeed.com/cmp/Brunswick-6","https://www.brunswick.com/","Mettawa, IL","10,000+","$5B to $10B (USD)","","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8eac3526e1a24f3ff13a21b90d905df9","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/68b5b88fad131d47e5ce4ee537eddfb1","David M. Foulkes","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/01554716f7902adfe0195bbf045c483a"
+"a1839f013d35b1f6","indeed","https://www.indeed.com/viewjob?jk=a1839f013d35b1f6","https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Embedded-Software-Engineer-Intern_R27475","Embedded Software Engineer Intern","Bose","Framingham, MA, US","fulltime","2024-09-16","direct_data","yearly",66076.0,83668.0,"USD",False,"","","Computers And Electronics","","Wellbeing@bose.com, wellbeing@bose.com","You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. We’ve dedicated ourselves to improving it for nearly 60 years. And we’re passionate down to our bones about making whatever you’re listening to a little more magical.
+The engineering team at Bose is a thriving, passionate, deeply skilled team of professionals from a broad range of disciplines and experiences, who share a common goal—to create products that provide transformative sound experiences.
+Job Description
+At Bose, we are passionate about helping people reach their fullest human potential so that they can feel more, do more, and be more. Working as a team member of Bose Software Organization (BSO), come astonish our cutting-edge audio systems with your outstanding ability to develop algorithms and software for a superlative audio experience in a car. Bose intern/co-op program aims to provide students with hands-on opportunities to solve real-world problems with software skills. In addition to enhancing software development skills, you will also collaborate with research, acoustic tuning teams to see the product life cycle. Our team strives to make every intern/co-op experience rewarding, practical, and seamless to successfully launch your career after graduation.
+Education* BS student minimum, graduate student preferred
+
+
+Skills* Coursework in embedded systems, real-time operating system (RTOS), algorithms, or computer architecture
+* Experience in C, Python, and MATLAB
+* Experience in algorithm development, validation, performance benchmarking, and debug
+* Knowledge of digital signal processing (DSP) algorithms for audio applications
+
+
+Responsibilities* Develop prototype SW modules that meet system design requirements
+* Write high-quality, maintainable source code that meets peer code review expectation
+* Deploy, operate work product in the embedded development environment
+* Technical documentation on software design, implementation, and validation
+
+
+Project Description
+The objective of this role aims to assist development of reusable software modules that enable basic audio controls and commands for Qualcomm Snapdragon SoC family. In the up-integration model, Bose automotive audio features shall meet high expectation to deliver platform agnostic SW modules in a multi-core SoC (ARM and Hexagon DSP cores) and enable close collaboration with partners without revealing Bose IP. The qualified candidate will participate in code development, performance benchmarking, and preparation of technical documentation.
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP\\_EEO\\_Supplement\\_Final\\_JRF\\_QA\\_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665\\_PrescribedNondiscriminationPostingLanguage\\_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.
+If you believe you need a reasonable accommodation, please send a note to wellbeing@bose.com","https://www.indeed.com/cmp/Bose","https://www.bose.com/en_us/careers.html","The Mountain","5,001 to 10,000","$1B to $5B (USD)","At Bose, we’re obsessed with what matters most — the little details that make a big difference, and the big details that astonish.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/270aaaf923063f9e4f6e34eda023bd83","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/41433ca1335ef9ce52642749df2fe98c","Lila Snyder ","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/0f2fa7e9db67d82781d32e073a794498"
+"3386bc32f47fad6c","indeed","https://www.indeed.com/viewjob?jk=3386bc32f47fad6c","https://jobs.smartrecruiters.com/Visa/744000014257604-software-engineer-intern","Software Engineer Intern","Visa","Atlanta, GA, US","internship","2024-09-16","direct_data","hourly",26.0,31.0,"USD",False,"","","Banks And Financial Services","","","**Company Description**  
+
+Visa is a world leader in digital payments, facilitating more than 215 billion payments transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories each year. Our mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.
+
+
+When you join Visa, you join a culture of purpose and belonging – where your growth is priority, your identity is embraced, and the work you do matters. We believe that economies that include everyone everywhere, uplift everyone everywhere. Your work will have a direct impact on billions of people around the world – helping unlock financial access to enable the future of money movement.
+
+
+Join Visa: A Network Working for Everyone.
+
+ **Job Description**  
+
+We are seeking Software Engineer interns across our Technology organization. As an intern, you will take on meaningful work, engage in out-of-the-box problem solving, and participate in global case challenges and impactful initiatives. You will get the chance to work with multiple teams, systems, and products through a wide variety of data sources. From technology to business, we are looking for people who can innovate, collaborate and bring Visa into the next level of a rapidly evolving digital marketplace.
+
+
+During the internship, you will work on one or more hands-on projects with the team. Our summer internship also equips you with social and professional networking events and developmental workshops, designed to provide you the resources and training to have an impactful summer.
+
+
+Some examples of previous summer intern projects:
+
+* Self-serve deployment of Kafka clusters using Docker and Kubernetes with auto scale up capability
+* Creating a natural language Chatbot for searching CDISI knowledge base
+* Developing a prototype that would automate payments at gas stations
+* Automating process for removing duplicate compromised account numbers using low latency algorithms
+* Improving the usage of Visa Checkout across all mobile and web devices
+* Developing testing tools to identify errors in internal systems
+* Creating visual monitoring tools to uncover transaction errors
+* Analyze, design, code and unit test software solutions and enhancements for an application that applies business logic and routes digital currency of global transactions
+* Develop a robust app factory to be used to create hundreds of mobile banking applications for iOS and Android with a single click
+* Implementation of a single development lifecycle, from Analysis and Design, Build, QA, Security, and Deployment. Begin to learn best and secure coding practices and standards
+
+
+As a summer Intern, you will be placed in one of the technology organizations at Visa and specific assignments will depend on upon your skills sets, interest, and team needs.
+
+ **Qualifications**  
+
+Basic Qualifications
+
+* Students pursuing a Bachelor’s degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating December 2025 or later.
+* Strong communications skills, specifically, the absence of repeated grammatical or typographical errors, clear and concise written and spoken communications that demonstrate professional judgment.
+
+
+Preferred Qualifications
+
+* Proficiency in at least one programming language or technology including, but not limited, to Java, C/C++, C#, .NET, python, Javascript, HTML
+* Experience with Write utilities / automation tools using Selenium, Java, REST, Python, Groovy, and more
+* Familiarity with software testing principles
+* Solid understanding of software engineering concepts and methodologies
+* Document process, designs, test results, and analysis
+* Lead root cause analysis and track defect resolution to completion
+* Review and provide feedback on development code, test designs and test cases
+* Strong ability to collaborate
+* Highly driven, resourceful and results oriented
+* Good team player and excellent interpersonal skills
+* Good analytical and problem-solving skills
+* Demonstrated ability to lead and navigate through ambiguity
+
+  
+
+**Additional Information** **U.S. APPLICANTS ONLY:** The estimated hourly range for a new hire into this position is $26.00 to $31.00 which may include potential sales incentive payments (if applicable). Salary may vary depending on job-related factors which may include knowledge, skills, experience, and location. In addition, this position may be eligible for bonus and equity. Visa has a comprehensive benefits package for which this position may be eligible that includes Medical, Dental, Vision, 401 (k), FSA/HSA, Life Insurance, Paid Time Off, and Wellness Program.
+
+**Work Authorization:** Visa will not sponsor applicants for work visas in connection with this position. Future sponsorship will not be considered.
+
+**Work Hours:** Varies upon the needs of the department
+
+**Travel Requirements:** This position requires travel 5-10% of the time.
+
+**Mental/Physical Requirements:** This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers.
+
+
+Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.
+
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with applicable local law, including the requirements of Article 49 of the San Francisco Police Code.","https://www.indeed.com/cmp/Visa","http://www.visa.com","One Market Plaza, 5th Floor
+San Francisco, CA 94105","10,000+","more than $10B (USD)","Our Purpose is to... Uplift everyone, everywhere by being the best way to pay and be paid.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/424e574b0a65615c2d593985d0324d96","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/52fa222046d10eed5e173475a67552d4","Ryan McInerney","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/783685290bdbc9b7b7b8845d3e9bfa6d"
+"5a517e96b6decf79","indeed","https://www.indeed.com/viewjob?jk=5a517e96b6decf79","https://recruiting2.ultipro.com/AER1004AROI/JobBoard/57af4392-2729-4577-830f-6ec5d73ec6e0/OpportunityDetail?opportunityId=e38442bc-0f3c-4cc3-9fe8-c4767eb15ad2&postingId=e35d8d5b-609e-4ef7-8bad-c78b0d44a218","Intern: Software Engineering","Aerostar International","Sioux Falls, SD, US","fulltime","2024-09-16","direct_data","yearly",36485.0,46198.0,"USD",False,"","","","","","As a Software Engineer Intern, you will complete specified projects and tasks within internship or co-op period.
+
+
+**Guiding Principles**
+
+
+* **Do What is Right**-We have integrity and strong character We are trustworthy We follow through on our commitments We are respectful We value diverse backgrounds, approaches, and perspectives We take care of our team members and our customers.
+* **Dare Mighty Things**-We have courage We do what others think is impossible We love the challenge We are not afraid to take risks We have passion We have a bias for action We make things happen We succeed under adversity We are resilient We have grit.
+* **Make A Difference**-We make the world better with our products and solutions We are engaged in our community We each make a difference within our company We are lifelong learners, both professionally and personally We are servant leaders.
+* **Own It-We take responsibility** We are entrepreneurial We take pride in everything we do We check our egos at the door We delegate authority We empower team members to make decisions We learn from failure We support one another.
+* **Simplify**-We actively seek out way to simplify We value clarity and brevity We break plans down into actionable steps We streamline processes We are humble We make do with what we have We are resourceful.
+
+
+**Essential Functions:**
+
+
+* Complete projects as assigned within internship discipline.
+* Attend Aerostar sponsored training and educational seminars.
+* Engage and participate in Aerostar sponsored events.
+* Work closely with assigned mentor and manager to reach successful completion of internship.
+* Provide periodic updates to managers and peers on assigned project(s).
+* Complete summer end internship presentation.
+* Demonstrates the guiding principles of Aerostar.
+* May be called upon to perform comparable duties of a similar or related nature and/or assist in other areas as needed.
+* Learning, understanding, continuously improving, and promoting the division’s quality management system in accordance with ISO standards.
+
+
+**Education & Experience:**
+
+
+* College student or recent graduate in specified course of study necessary to be successful in defined internship position.
+* Ability to handle multiple projects and tasks simultaneously, without close supervision.
+* Problem-solving abilities. Ability to identify waste and creatively look for solutions.
+* Ability to work with a high level of confidentiality.
+* Capacity to be flexible and multitask.
+* Proficient with computers, including Microsoft Office.
+* Ability to communicate effectively with team members and leadership staff.
+
+
+***Physical Requirements****:* Required to sit, stand, walk, bend, and reach. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+***Working Conditions:*** Exposure to a normal office environment. Position may occasionally require entering a production environment, including exposure to noise, fumes, moving machinery, and varied temperatures.
+
+
+**Benefits:**
+
+
+
+Interns are eligible to participate in some of our benefits such as 401(k)-retirement plan, paid time off (PTO), gym membership reimbursement, and access to our Employee Assistance Program (EAP).
+
+
+**EEOC Statement:**
+
+
+
+Aerostar is committed to providing equal employment opportunity to all qualified employees and applicants. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, citizenship, ancestry, marital status, protected veteran status, disability status or any other status protected by federal, state, or local law.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.indeed.com/cmp/Aerostar-International","http://www.remotecontrolblimp.com","Sioux Falls, SD","201 to 500","$25M to $100M (USD)","","","","",""
+"4008843978","linkedin","https://www.linkedin.com/jobs/view/4008843978","","Campus Undergraduate - 2025 Technology Software Engineer Summer Internship Phoenix, AZ","American Express","Phoenix, AZ","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/american-express","","","","","","","","",""
+"4026361233","linkedin","https://www.linkedin.com/jobs/view/4026361233","","Software Engineer Intern (Hybrid) - June 2025","Staples","Framingham, MA","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/staples","","","","","","","","",""
+"4027652737","linkedin","https://www.linkedin.com/jobs/view/4027652737","","Software Engineer Intern","Visa","Ashburn, VA","","","","","","","","","","","","","","","https://www.linkedin.com/company/visa","","","","","","","","",""
+"4027655839","linkedin","https://www.linkedin.com/jobs/view/4027655839","","Application Software Engineer Intern","Mercury Marine","Fond du Lac, WI","","","","","","","","","","","","","","","https://www.linkedin.com/company/mercury-marine","","","","","","","","",""
+"1009448333080","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448333080","","Software Developer Intern","Tank Connection","Parsons, KS","","2024-09-16","direct_data","yearly",47151.0,74786.0,"USD",False,"","","","organic","","**Tank Connection is an international leader in the design, manufacturing and installation of liquid and dry bulk storage products and covers. Quality, experience, innovation, and customer service are hallmarks of our company. Tank Connection is an ISO9001 QMS Company that is also employee owned. You get the best of both worlds when an extensive ISO program is implemented by employee owners. As a result, Tank Connection has become the trusted name in storage around the world.**
+
+
+At Tank Connection, internships are designed to be a work-based experience that ensures mutual benefit for both the company and the intern. We aim to provide meaningful work, social and networking opportunities, exposure to company culture, comprehensive training, industry connections, and valuable feedback. This program embodies a shared purpose, fostering generational value. By recruiting top-notch talent, we are committed to shaping the future of Tank Connection, creating a lasting impact for both the organization and our interns.
+
+
+The Summer 2025 Internship Experience is a full time position **June 3, 2025 to August 1, 2025**. All interns will be based out of our main location in Parsons, Kansas. Anticipate the possibility of employer paid travel to project sites, events, and trainings during the internship.
+
+
+**Position Summary:** The Software Developer Intern position is responsible for the development, support, and maintenance of internally developed programs with a focus on legacy code maintenance and improvement. Development could include integration with existing systems, creation of brand new programs and systems, or a combination of both.
+
+**Duties and Responsibilities**
+
+* Develops and maintains new internal small-scale applications.
+* Provides support for internally developed programs on an as needed basis
+* Documents program functionality and configuration
+* Collaborates with other developers and other departments within the organization
+* Communicates between different departments regarding system requirements, program specifications, and other related information.
+* Helps define, establish, maintain, and adjust internal software development protocols, procedures, and standards.
+* May perform other duties as assigned.
+
+**Skills and Specifications:**
+
+* Experience with basic development processes.
+* Experience with any of the following languages:
+	+ C#/VB
+	+ C/C++
+	+ Java
+	+ Go
+	+ Python
+* Experience working with a team of different disciplines.
+* Experience with SQL databases.
+* Communication of technical requirements, concepts, or features with non-technical personnel.
+* Experience managing workload with project scopes, task lists, and other tools.
+* Willingness to learn new technologies, tools, or methodologies to perform tasks.
+
+**Education and Qualifications:**
+
+* College Level Junior or Senior
+* Desired Majors- Computer Science, Information Systems, Software Development
+* Web application development experience
+
+**Physical Requirements:** While performing the duties of Software Developer Intern, the employee is occasionally required to stand; walk; sit; use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; climb stairs; balance; stoop, kneel, crouch or crawl; talk or hear; taste or smell. The employee must occasionally lift and/or move up to 50 pounds. Specific vision abilities required by the job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+**Work Environment:** While performing the duties of Software Developer Intern, the employee is exposed to weather conditions prevalent at the time. The noise level in the work environment is usually moderate.
+
+***Limitations and Disclaimer:*** *The above job description is meant to describe the general nature and level of work being performed; it is not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for the position. All job requirements are subject to possible modification to reasonably accommodate individuals with disabilities. Some requirements may exclude individuals who pose a direct threat or significant risk to the health and safety of themselves or other employees.*
+
+*This job description in no way states or implies that these are the only duties to be performed by the employee occupying this position. Employees will be required to follow any other job-related instructions and to perform other job-related duties requested by their supervisor in compliance with Federal and State Laws.*
+
+*Requirements are representative of minimum levels of knowledge, skills and/or abilities. To perform this job successfully, the employee must possess the abilities or aptitudes to perform each duty proficiently. Continued employment remains on an “at-will” basis.*
+
+*REV-09/11/2024*","https://www.glassdoor.com/Overview/W-EI_IE1587288.htm","","","","","","https://media.glassdoor.com/sql/1587288/tank-connection-squarelogo-1502890523997.png","","",""
+"1009448127961","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448127961","","IT Intern – Software Developer","BOARD OF GOVERNORS of the FEDERAL RESERVE SYSTEM","Washington, DC","","2024-09-16","direct_data","yearly",80044.0,111444.0,"USD",False,"","","","organic","","**Minimum Education**  
+
+  
+
+Enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship.  
+
+  
+
+**Minimum Experience**  
+
+  
+
+0  
+
+  
+
+**Summary**
+
+
+The Federal Reserve Board (Board) provides students opportunities for career success. The Board’s Internship program is designed to provide valuable work experience for undergraduate and graduate students considering careers including, but not limited to, economics, finance and accounting, information systems, and data analysis. The Board believes that by combining academic endeavors with project-related work experience, qualified and capable college students can gain the practical knowledge need in a competitive global job market. Internships are paid positions with salaries commensurate with credit hours; internships may be in-person, remote or hybrid, depending on the needs of the team. Employment in the Board’s internship program is granted to U.S. citizens. Applicants must be currently enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship. Interns receive a syllabus or research project plan outlining their projects and goals for the internship. Interns are assigned a supervisor or mentor to guide them through their internship, and regular check-in meetings with their manager to manage performance expectations and assist with learning goals. Interns have access to a wide range of training programs and events for professional development purposes.
+
+**Position Requirements**
+As a Software Developer intern, you will work in the Application Development area of the Information Technology Division and will provide support to software development teams working on a variety of automation projects. You will work closely with team members to develop software solutions to meet end-user requirements.
+
+
+**What You’ll Be Doing**
+
+
+*Software Developer interns support teams in*
+
+
+* Developing web and mobile applications
+* Discovering and implementing tools that enhance innovation and modernization
+* Designing website layouts that satisfy end-user requirements and web design principles
+
+
+* Building database queries to extract data required for software solutions, and much more!
+
+
+*Previous Software Developer interns had the opportunity to contribute to projects related to*
+
+
+* Artificial Intelligence / Machine Learning (AI/ML)
+* Automation Testing
+
+
+* Web Application Programming Interface (API) Development, and
+
+
+* Data Analytics
+
+
+
+Through these projects, you will gain experience with programming languages and databases and system development life cycle methodologies, such as Agile and SCRUM, to help determine if a career in software development is for you.
+
+
+**How You’ll Make an Impact**
+
+  
+
+
+
+Our mission matters. It includes promoting a strong economy for the American people by fostering stability, integrity, and efficiency of the nations’ monetary, financial, and payment systems. As an intern at the Federal Reserve Board, you will have the opportunity to contribute to this mission.  
+
+
+**Education Requirements:** The IT Internship requires a minimum of two years of college coursework in computer science, information systems, digital media, or other related disciplines.  
+
+
+
+This internship may be completed remotely, or in a hybrid capacity at the discretion of the selected candidate.  
+
+
+
+US Citizenship is required for all Board internships and applicants must be current students, graduating from their program fall 2025 or later.**We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.**","https://www.glassdoor.com/Overview/W-EI_IE142008.htm","","","","","","https://media.glassdoor.com/sql/142008/federal-reserve-board-squarelogo-1378487518664.png","","",""
+"993327ff5ab4e568","indeed","https://www.indeed.com/viewjob?jk=993327ff5ab4e568","https://www.applicantpro.com/openings/group1/jobs/3497977-6786","Software Developer Intern","Group One Trading","Chicago, IL, US","internship","2024-09-16","direct_data","yearly",90676.0,114816.0,"USD",False,"","","","","","Software Developer Intern
+
+
+Location: Chicago
+
+**The Opportunity**
+===================
+
+
+Group One Trading, a dynamic options trading firm, is actively seeking highly-motivated people who are interested in learning and getting hands-on experience with electronic trading systems. Our system is built on the .NET platform using C#. The system has enough variety to challenge and interest anyone: an information-dense user interface, a high-throughput, low latency parallel computational core, service-oriented architecture, and interfaces to exchanges' market data and execution systems.
+
+**Who We Are**
+==============
+
+
+We are committed to creating a diverse environment and are proud to be an equal opportunity employer. At Group One, we value transparency and collaboration coming from unique perspectives and backgrounds. We strive to create a workplace in which all employees have an opportunity to participate and contribute to the success of the business.
+
+**What We Do**
+==============
+
+
+Group One is a proprietary trading firm specializing in market making and liquidity providing strategies in options markets. Our traders provide competitive liquidity across a broad range of securities by managing portfolios of several hundred issues and simultaneously streaming quotes across multiple exchanges. Our systems and network infrastructure are vital in ensuring success.
+
+**The Skill Set**
+=================
+
+
+During this internship, you will be mentored by senior developers and gain exposure to the business of equity options trading. You will gain real-world experience with a team that develops proprietary software in an ever-changing, fast-paced, and competitive environment.
+
+
+A broad, multi-platform skill set will help you be successful in this role, but there will be plenty of learning opportunities no matter how many of these skills you bring in with you. We also encourage applicants with non-traditional backgrounds to apply.
+
+* Completing or working towards a BS, MS, or Ph.D. in Computer Science, Computer Engineering, or a related technical field.
+* Familiarity with a C-style object-oriented language: C#, Java, C++, or Objective-C.
+* Solid Computer Science and software development fundamentals.
+* Desire to learn and grow as a software developer.
+* Ability to effectively communicate and collaborate with colleagues across different functional units and locations.
+
+**Within 1 Month, You'll**
+==========================
+
+* Complete your initial orientation, become familiar with our environment, our infrastructure, and our business.
+* Learn the roles and skillsets of your Dev teammates to discern and utilize the best advice and information for yourself and others.
+
+**Within 3 Months, You'll**
+===========================
+
+* Engage and contribute directly to projects with real implications for our traders and company.
+
+**The Benefits**
+================
+
+
+We offer a competitive compensation package which includes company-paid housing or housing stipend, individualized mentorship, fresh fruit and snacks daily, casual dress environment, social events, and more! In-person interview expenses for travel and childcare will be reimbursed by Group One.","https://www.indeed.com/cmp/Group-One-Trading","https://www.group1.com","Chicago, IL","51 to 200","$25M to $100M (USD)","","","","",""
+"316af6e997d16c25","indeed","https://www.indeed.com/viewjob?jk=316af6e997d16c25","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=22f66d67-61ff-46d3-b0f6-919a747c65f3&ccId=19000101_000001&jobId=525652&source=IN&lang=en_US","Software Developer Intern","Tank Connection","Parsons, KS, US","internship","2024-09-16","direct_data","yearly",31767.0,40224.0,"USD",False,"","","","","","**Tank Connection is an international leader in the design, manufacturing and installation of liquid and dry bulk storage products and covers. Quality, experience, innovation, and customer service are hallmarks of our company. Tank Connection is an ISO9001 QMS Company that is also employee owned. You get the best of both worlds when an extensive ISO program is implemented by employee owners. As a result, Tank Connection has become the trusted name in storage around the world.**
+
+
+At Tank Connection, internships are designed to be a work-based experience that ensures mutual benefit for both the company and the intern. We aim to provide meaningful work, social and networking opportunities, exposure to company culture, comprehensive training, industry connections, and valuable feedback. This program embodies a shared purpose, fostering generational value. By recruiting top-notch talent, we are committed to shaping the future of Tank Connection, creating a lasting impact for both the organization and our interns.
+
+
+The Summer 2025 Internship Experience is a full time position **June 3, 2025 to August 1, 2025**. All interns will be based out of our main location in Parsons, Kansas. Anticipate the possibility of employer paid travel to project sites, events, and trainings during the internship.
+
+
+**Position Summary:** The Software Developer Intern position is responsible for the development, support, and maintenance of internally developed programs with a focus on legacy code maintenance and improvement. Development could include integration with existing systems, creation of brand new programs and systems, or a combination of both.
+
+**Duties and Responsibilities**
+
+* Develops and maintains new internal small-scale applications.
+* Provides support for internally developed programs on an as needed basis
+* Documents program functionality and configuration
+* Collaborates with other developers and other departments within the organization
+* Communicates between different departments regarding system requirements, program specifications, and other related information.
+* Helps define, establish, maintain, and adjust internal software development protocols, procedures, and standards.
+* May perform other duties as assigned.
+
+**Skills and Specifications:**
+
+* Experience with basic development processes.
+* Experience with any of the following languages:
+	+ C#/VB
+	+ C/C++
+	+ Java
+	+ Go
+	+ Python
+* Experience working with a team of different disciplines.
+* Experience with SQL databases.
+* Communication of technical requirements, concepts, or features with non-technical personnel.
+* Experience managing workload with project scopes, task lists, and other tools.
+* Willingness to learn new technologies, tools, or methodologies to perform tasks.
+
+**Education and Qualifications:**
+
+* College Level Junior or Senior
+* Desired Majors- Computer Science, Information Systems, Software Development
+* Web application development experience
+
+**Physical Requirements:** While performing the duties of Software Developer Intern, the employee is occasionally required to stand; walk; sit; use hands to finger, handle, or feel objects, tools or controls; reach with hands and arms; climb stairs; balance; stoop, kneel, crouch or crawl; talk or hear; taste or smell. The employee must occasionally lift and/or move up to 50 pounds. Specific vision abilities required by the job include close vision, distance vision, color vision, peripheral vision, depth perception, and the ability to adjust focus.
+
+**Work Environment:** While performing the duties of Software Developer Intern, the employee is exposed to weather conditions prevalent at the time. The noise level in the work environment is usually moderate.
+
+***Limitations and Disclaimer:*** *The above job description is meant to describe the general nature and level of work being performed; it is not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for the position. All job requirements are subject to possible modification to reasonably accommodate individuals with disabilities. Some requirements may exclude individuals who pose a direct threat or significant risk to the health and safety of themselves or other employees.*
+
+*This job description in no way states or implies that these are the only duties to be performed by the employee occupying this position. Employees will be required to follow any other job-related instructions and to perform other job-related duties requested by their supervisor in compliance with Federal and State Laws.*
+
+*Requirements are representative of minimum levels of knowledge, skills and/or abilities. To perform this job successfully, the employee must possess the abilities or aptitudes to perform each duty proficiently. Continued employment remains on an “at-will” basis.*
+
+*REV-09/11/2024*","https://www.indeed.com/cmp/Tank-Connection","http://www.tankconnection.com","3609 North 16th Street 
+Parsons, KS  67357 ","201 to 500","$100M to $500M (USD)","","","","",""
+"0f76ad8014f69a34","indeed","https://www.indeed.com/viewjob?jk=0f76ad8014f69a34","https://frbog.taleo.net/careersection/1/jobdetail.ftl?job=24452","IT Intern – Software Developer","Board of Governors of the Federal Reserve System","Washington, DC, US","internship","2024-09-16","direct_data","yearly",40180.0,50877.0,"USD",True,"","","","","","**Minimum Education**  
+
+  
+
+Enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship.  
+
+  
+
+**Minimum Experience**  
+
+  
+
+0  
+
+  
+
+**Summary**
+
+
+The Federal Reserve Board (Board) provides students opportunities for career success. The Board’s Internship program is designed to provide valuable work experience for undergraduate and graduate students considering careers including, but not limited to, economics, finance and accounting, information systems, and data analysis. The Board believes that by combining academic endeavors with project-related work experience, qualified and capable college students can gain the practical knowledge need in a competitive global job market. Internships are paid positions with salaries commensurate with credit hours; internships may be in-person, remote or hybrid, depending on the needs of the team. Employment in the Board’s internship program is granted to U.S. citizens. Applicants must be currently enrolled in an undergraduate or graduate degree program at an accredited university and returning to continue studies after the internship. Interns receive a syllabus or research project plan outlining their projects and goals for the internship. Interns are assigned a supervisor or mentor to guide them through their internship, and regular check-in meetings with their manager to manage performance expectations and assist with learning goals. Interns have access to a wide range of training programs and events for professional development purposes.
+
+**Position Requirements**
+As a Software Developer intern, you will work in the Application Development area of the Information Technology Division and will provide support to software development teams working on a variety of automation projects. You will work closely with team members to develop software solutions to meet end-user requirements.
+
+
+**What You’ll Be Doing**
+
+
+*Software Developer interns support teams in*
+
+
+* Developing web and mobile applications
+* Discovering and implementing tools that enhance innovation and modernization
+* Designing website layouts that satisfy end-user requirements and web design principles
+
+
+* Building database queries to extract data required for software solutions, and much more!
+
+
+*Previous Software Developer interns had the opportunity to contribute to projects related to*
+
+
+* Artificial Intelligence / Machine Learning (AI/ML)
+* Automation Testing
+
+
+* Web Application Programming Interface (API) Development, and
+
+
+* Data Analytics
+
+
+
+Through these projects, you will gain experience with programming languages and databases and system development life cycle methodologies, such as Agile and SCRUM, to help determine if a career in software development is for you.
+
+
+**How You’ll Make an Impact**
+
+  
+
+
+
+Our mission matters. It includes promoting a strong economy for the American people by fostering stability, integrity, and efficiency of the nations’ monetary, financial, and payment systems. As an intern at the Federal Reserve Board, you will have the opportunity to contribute to this mission.  
+
+
+**Education Requirements:** The IT Internship requires a minimum of two years of college coursework in computer science, information systems, digital media, or other related disciplines.  
+
+
+
+This internship may be completed remotely, or in a hybrid capacity at the discretion of the selected candidate.  
+
+
+
+US Citizenship is required for all Board internships and applicants must be current students, graduating from their program fall 2025 or later.**We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or application, membership, or service in the uniformed services.**","https://www.indeed.com/cmp/Board-of-Governors-of-the-Federal-Reserve-System","","","","","","","","",""
+"4025331874","linkedin","https://www.linkedin.com/jobs/view/4025331874","","Software Developer Intern","Group One Trading, LP","Chicago, IL","","","","","","","","","","","","","","","https://www.linkedin.com/company/group-one-trading-lp","","","","","","","","",""
+"4025343640","linkedin","https://www.linkedin.com/jobs/view/4025343640","","SOFTWARE DEVELOPER INTERN - Summer 2025","Nicolet National Bank","Green Bay, WI","","","","","","","","","","","","","","","https://www.linkedin.com/company/nicolet-national-bank","","","","","","","","",""
+"4025210072","linkedin","https://www.linkedin.com/jobs/view/4025210072","","Summer 2025 Intern - .NET Software Developer (remote)","RemoteWorker US","Reston, VA","","","","","","","","","","","","","","","https://www.linkedin.com/company/remoteworkerus","","","","","","","","",""
+"4027604834","linkedin","https://www.linkedin.com/jobs/view/4027604834","","Software Developer Intern","Dayton Freight Lines, Inc.","Dayton, OH","","","","","","","","","","","","","","","https://www.linkedin.com/company/dayton-freight-lines","","","","","","","","",""
+"1009448206223","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448206223","","Composition Programmer Intern","RR Donnelley","Logan, UT","","2024-09-16","direct_data","hourly",20.0,20.0,"USD",False,"","","","organic","","**Company Description**  
+
+RRD is a leading global provider of marketing, packaging, print, and supply chain solutions that elevate engagement across the complete customer journey. The company offers the industry’s most trusted portfolio of creative execution and world-wide business process consulting, with services designed to lower environmental impact. With 22,000 clients, including 93% of the Fortune 100, and 32,000 employees across 28 countries, RRD brings the expertise, execution, and scale designed to transform customer touchpoints into meaningful moments of impact.
+
+ **Job Description** **THIS IS A HYBRID POSITION.**
+
+  
+
+The Intern will support production applications and work with customers, business analysts, and team members to understand business requirements.
+
+  
+
+As a Programmer Intern, the goal of the internship will be to work through a series of application enhancements as prioritized and assigned by IT team leadership.
+
+  
+
+The intern will be responsible for full lifecycle delivery of the enhancements, from initial analysis and design through development, to coordinating testing with business owners, and delivery.
+
+ **Qualifications**  
+
+* The intern candidate should be a full-time student at an accredited college or university pursuing a Bachelor or higher degree in Computer Science or related discipline.
+* Candidate will be versed in all phases of software development life cycle.
+* Familiarity or exposure to Unix/Linux platforms, Perl, Python or Kornshell is a plus .
+* Candidate will manipulate PDF,XML,AFP,JSON and raw data files, create reports from data components, troubleshoot issues and validate output.
+* Strong communication and team skills.
+* Ability to work independently or as part of a small team
+* Positive attitude and outstanding customer service orientation.
+* Accuracy and attention to detail.
+
+  
+
+**Additional Information**  
+
+The rate of pay for this role at the noted location is $20.00 / hour.
+
+
+RRD is an Equal Opportunity Employer, including disability/veterans","https://www.glassdoor.com/Overview/W-EI_IE554.htm","","","","","","https://media.glassdoor.com/sql/554/r-r-donnelley-squareLogo-1632450638905.png","","",""
+"b422568ddfbdce71","indeed","https://www.indeed.com/viewjob?jk=b422568ddfbdce71","https://jobs.smartrecruiters.com/RRDonnelley/744000014259457-composition-programmer-intern","Composition Programmer Intern","RR Donnelley","Logan, UT, US","fulltime","2024-09-16","","hourly","","","USD",False,"","","","","","**Company Description**  
+
+RRD is a leading global provider of marketing, packaging, print, and supply chain solutions that elevate engagement across the complete customer journey. The company offers the industry’s most trusted portfolio of creative execution and world-wide business process consulting, with services designed to lower environmental impact. With 22,000 clients, including 93% of the Fortune 100, and 32,000 employees across 28 countries, RRD brings the expertise, execution, and scale designed to transform customer touchpoints into meaningful moments of impact.
+
+ **Job Description** **THIS IS A HYBRID POSITION.**
+
+  
+
+The Intern will support production applications and work with customers, business analysts, and team members to understand business requirements.
+
+  
+
+As a Programmer Intern, the goal of the internship will be to work through a series of application enhancements as prioritized and assigned by IT team leadership.
+
+  
+
+The intern will be responsible for full lifecycle delivery of the enhancements, from initial analysis and design through development, to coordinating testing with business owners, and delivery.
+
+ **Qualifications**  
+
+* The intern candidate should be a full-time student at an accredited college or university pursuing a Bachelor or higher degree in Computer Science or related discipline.
+* Candidate will be versed in all phases of software development life cycle.
+* Familiarity or exposure to Unix/Linux platforms, Perl, Python or Kornshell is a plus .
+* Candidate will manipulate PDF,XML,AFP,JSON and raw data files, create reports from data components, troubleshoot issues and validate output.
+* Strong communication and team skills.
+* Ability to work independently or as part of a small team
+* Positive attitude and outstanding customer service orientation.
+* Accuracy and attention to detail.
+
+  
+
+**Additional Information**  
+
+The rate of pay for this role at the noted location is $20.00 / hour.
+
+
+RRD is an Equal Opportunity Employer, including disability/veterans","https://www.indeed.com/cmp/Rr-Donnelley","https://www.rrd.com/","Chicago, IL","5,001 to 10,000","$5B to $10B (USD)","RRD connects brands to customers across the entire breadth of the customer journey - from marketing programs to critical business operations.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83e00087eb0d530490f32d3e76c5639d","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/511488d70b087ae8115720b95a9185e7","Thomas J. Quinlan",""
+"4027592431","linkedin","https://www.linkedin.com/jobs/view/4027592431","","Composition Programmer Intern","RR Donnelley","St Charles, IL","","","","","","","","","","","","","","","https://www.linkedin.com/company/rr-donnelley","","","","","","","","",""
+"4023918432","linkedin","https://www.linkedin.com/jobs/view/4023918432","","Associate Data Scientist Intern 2025","IBM","New York, NY","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/ibm","","","","","","","","",""
+"4008849754","linkedin","https://www.linkedin.com/jobs/view/4008849754","","Data Science: Internship Opportunities - Redmond","Microsoft","Redmond, WA","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/microsoft","","","","","","","","",""
+"4023576140","linkedin","https://www.linkedin.com/jobs/view/4023576140","","Data Scientist Intern - Digital Technology (Summer 2025)","JLG Industries","Hagerstown, MD","","2024-09-13","","","","","","","","","","","","","https://www.linkedin.com/company/jlg-industries","","","","","","","","",""
+"4027586867","linkedin","https://www.linkedin.com/jobs/view/4027586867","","Data Scientist Intern","TSI Incorporated","St Paul, MN","","","","","","","","","","","","","","","https://www.linkedin.com/company/tsiincorporated","","","","","","","","",""
+"1009448294165","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448294165","","Data Analyst Intern","Texas Farm Bureau Mutual Insurance Company","","","2024-09-16","","","","","",True,"","","","organic","","Job Responsibilities:  
+
+  
+
+  
+
+  
+
+This is a paid internship position. Internships will last a maximum of one year, and interns are allowed to work a maximum of 19 hours per week.
+
+
+
+This position will assist with projects related to Property and Casualty (P&C) Insurance product pricing, P&C Loss Reserve Analysis, and Analysis of Risk. Additionally, this position may assist with special projects designed to gather, evaluate, and report on data to influence strategic decision making in support of P&C insurance companies’ objectives.  
+
+
+
+
+**MAJOR RESPONSIBILITIES AND AUTHORITY**  
+
+
+
+
+**Position Responsibilities:**  
+
+
+
+
+Assist in data collection, validation, and analysis.  
+
+
+
+
+Support the development, maintenance, and work within databases of relevant information for analysis and report development.  
+
+
+
+
+Provide support to the Actuarial Department in the areas of pricing, reserving, and research.  
+
+
+
+
+Coordinate with cross-functional teams and contribute an understanding of data to enrich processes and support change based on analysis.  
+
+
+
+
+Perform other assignments and special projects as requested.  
+
+
+
+
+Other duties as assigned.
+
+  
+
+  
+
+  
+
+Job Qualifications:  
+
+  
+
+  
+
+  
+
+Enrolled in college courses with emphasis in Statistics, Economics, Finance, or a related field.
+
+
+Ability and willingness to learn and extend skills.  
+
+
+
+
+Strong oral and written communication skills.
+
+
+
+Proficient in use of Microsoft Office software.
+
+
+
+Knowledge of SQL helpful.  
+
+
+
+
+Willing to travel as required.
+
+  
+
+  
+
+  
+
+Other Job Information (if applicable):  
+
+  
+
+  
+
+  
+
+Repeated use of PC, telephone, and office machines.
+
+
+
+Extended periods of sitting and concentration.
+
+
+
+Occasional bending, twisting, crouching, pulling, pushing, and reaching in an office environment.
+
+
+
+Occasional lifting and moving items weighing up to 30 lbs.
+
+
+**WORKING CONDITIONS**
+
+
+
+Occasional travel by auto or other public transportation.
+
+
+
+Work to be conducted in office environment owned or leased by company.
+
+
+**REVISED** October 2023","https://www.glassdoor.com/Overview/W-EI_IE497270.htm","","","","","","https://media.glassdoor.com/sql/497270/texas-farm-bureau-squarelogo-1498118941620.png","","",""
+"1009447894943","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009447894943","","Desktop support and Data analyst Intern","Flinchbaugh Engineering, Inc.","York, PA","","2024-09-16","direct_data","hourly",18.0,22.0,"USD",False,"","","","sponsored","","**Ready to roll up your sleeves and dive into the world of IT?** We're looking for a tech-savvy intern excited to tackle real-world challenges in a fast-paced manufacturing environment. If you're the type who thrives on solving problems, loves getting to the root cause, and can’t wait to turn data into actionable insights, this might just be your dream gig.
+
+**What You’ll Be Doing:**
+
+* **First on the Scene:** You’ll be the go-to person for desktop support, helping our team troubleshoot and resolve IT issues as they arise. From PCs to mobile devices, if it’s tech-related, you’re on it.
+* **Problem-Solving Pro:** Triaging issues is your superpower. You’ll work closely with our team to keep things running smoothly, ensuring that any IT hiccups don’t slow down our production lines.
+* **Document & Dominate:** You’ll be documenting processes and keeping everything organized so we can keep improving how we do things.
+* **Data Dynamo:** Dive into ERP and SQL database reporting. You’ll assist in providing stakeholders with the insights they need to make data-driven decisions that keep our operations humming.
+
+**Why You’ll Love This Internship:**
+
+* **Hands-On Experience:** This isn’t just another desk job. You’ll get to experience IT service delivery in a gritty, real-world environment, where your work directly impacts our manufacturing processes.
+* **Team Vibes:** Our team appreciates every bit of effort in keeping our operations online. You'll be part of a tight-knit group that values collaboration and celebrates wins together.
+* **Skill Building:** Whether it’s sharpening your desktop support skills or exploring the exciting world of data analytics, this internship offers the perfect blend of learning and doing.
+
+**What We’re Looking For:**
+
+* **Tech Enthusiast:** You’ve got a natural flair for desktop support and a burning curiosity to understand why things work (or don’t).
+* **Data Driven:** You’re excited about using data to make a difference, and you’re eager to learn more about ERP systems and SQL reporting.
+* **Team Player:** You’re ready to jump in, get your hands dirty, and work alongside a team that’s passionate about what they do.
+
+**The Perks:**
+
+* **Real Impact:** Your work will help keep our manufacturing operations running smoothly, making a tangible difference every day.
+* **Growth Opportunities:** This isn’t just an internship—it’s a launchpad for your IT career, offering a blend of hands-on experience and professional growth.
+* **Fun Environment:** We’re serious about our work, but we like to keep things light and fun. Expect a supportive environment where you can thrive and make a difference.
+
+Job Type: Full-time
+
+Pay: $18.00 - $22.00 per hour
+
+Expected hours: 40 per week
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+* Health savings account
+* Life insurance
+* Paid holidays
+* Paid time off
+* Parental leave
+* Prescription drug insurance
+* Professional development assistance
+* Retirement plan
+* Tuition reimbursement
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Experience:
+
+* Desktop support: 1 year (Required)
+
+Ability to Commute:
+
+* York, PA 17406 (Preferred)
+
+Ability to Relocate:
+
+* York, PA 17406: Relocate before starting work (Required)
+
+Work Location: In person","","","","","","","","","",""
+"1009447690379","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009447690379","","Data Analyst Intern","ZURU","Los Angeles, CA","","2024-09-16","direct_data","hourly",20.0,20.0,"USD",False,"","","","organic","","We're looking for a data analyst intern to join our team! If you're a problem-solving pro, an analytical thinking, a team player and can speak the language of data - we want to hear from you!  
+
+ZURU is on a mission to disrupt across industries, challenge the status quo and catalyst change through radical innovation and automation advances. This is in play in different pillars of the company: ZURU Toys are re-imagining what it means to play; ZURU Tech is shaping a better future by leading the next building revolution; ZURU Edge is pioneering new generation FMCG brands to better serve modern consumers.
+
+Founded in 2003 by EY Entrepreneur of the Year and World Entrepreneur Hall of Fame brothers Nick and Mat Mowbray, ZURU has quickly grown to a team of over 5000 direct and indirect members across more than 30 international locations.
+
+One of the largest toy companies in the world, globally recognised and award-winning brands include Bunch O Balloons, Mini Brands, XSHOT, Rainbocorns and Smashers. Our global FMCG brands include MONDAY Haircare, Rascal + Friends, NOOD, BONKERS, Gumi Yum Surprise.  
+
+This internship will be full time for three months, based in-person in our LA office, starting as soon as possible. The hourly rate for this position is $20 per hour.
+### **Roles & Responsibilities**
+
+* Assist in collecting and organizing data from various sources, including databases, file shares, and external data sets, ensuring accuracy and completeness for analysis.
+* Perform preliminary data analysis to identify trends, patterns, and anomalies within large datasets using statistical tools and software.
+* Write and execute SQL queries to retrieve information from databases for specific analysis projects, ensuring data integrity and efficiency.
+* Assist the team with inventory management.
+* Collaborate with cross-functional teams to understand data needs and deliver actionable insights through data analysis.
+* Participate in the design and implementation of new data collection and analysis methodologies to improve the quality and efficiency of data-driven decision-making processes.
+* Document analytical methodologies, coding procedures, statistical findings and progress reports to ensure transparency and reproducibility of results.
+* Support the maintenance and troubleshooting of data analytics tools and software, including performing updates and ensuring compatibility with data sources.
+
+### **Career Benefits**
+
+* Gain experience with real-world data analysis and hands-on application of techniques. Learn practical skills and best practices applicable to industry-wide analytics tools.
+* Develop your data analyst skills by working with experienced professionals to improve your insight creation and practical expertise in data collection, analysis, and interpretation.
+* Be exposed to an ever-expanding and far-reaching business across a wide variety of sectors and industry groups giving you a chance to learn about market practices, challenges, and trends. You'll gain valuable insights into how data is used across different sectors, helping you see how your skills make a real impact in the business world.
+
+### **Skills needed**
+
+* Familiar with SQL, Data Visualization, Statistical Analysis, Python Programming, ETL practices.
+
+**LIFE@ZURU**
+At ZURU, we have cultivated a high-performing culture that encourages excellence. Our team works towards ambitious goals, learning, performing, and improving together, all while having fun. We empower talented individuals to do their best work every day.  
+
+At ZURU, you get out what you put in. You are responsible for driving your own career and we provide the platform to achieve it. As ZURU is on such a fast growth trajectory, there are opportunities here that you won’t find anywhere else.  
+
+We recognise that ZURU’s success stems from our people and you can only be at your best when you are looking after yourself. ZURU encourages all our team members to invest in their well-being by providing an array of benefits and tools.  
+
+ZURU – Tomorrow Reimagined
+\\uD83D\\uDE80ZURU.com  
+
+#LI-AJ1","https://www.glassdoor.com/Overview/W-EI_IE2286297.htm","","","","","","https://media.glassdoor.com/sql/2286297/zuru-squareLogo-1626890214545.png","","",""
+"1009446414442","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446414442","","Intern-Culture and Inclusion Data Analyst","American AgCredit","United States","","2024-09-14","direct_data","hourly",20.0,20.0,"USD",False,"","","","organic","jobs@agloan.com","Why should you join our team?
+American AgCredit offers a unique opportunity to be a part of a national financial system supporting those who feed, clothe and fuel the world. We are a growing organization embracing collaboration and innovation while delivering transformative solutions. American AgCredit provides a cultivating environment where you truly make a difference for our customers and teams.
+Position will be posted until filled.
+SUMMARY
+The Culture & Inclusion Data Analyst Intern will play an integral role in designing a Culture & Inclusion data dashboard that includes culture, employee engagement and Diversity, Equity & Belonging key data points and metrics. The Data Analyst Intern will research and pull benchmarking data, identify best practices for dashboards and metrics specific to culture and inclusion. The Data Analyst Intern will recommend a solution by developing a problem statement, purpose, objectives, benefits to the organization, proposed data dashboard design, where data will be pulled from, proposed target and best practices.
+BASIC FUNCTION:
+The summer intern is responsible for completing a project for a specific business unit or team. Projects will vary based on business need, and project plans can evolve through the selection process. Interns will spend the majority of their time on an individual project assignment. The summer intern is also responsible for developing skills relevant to their performance and professional development.
+The summer internship program is 10 weeks beginning in late May and ending in early August. The internship program begins with a mandatory Orientation and ends with mandatory project presentations. Start dates may be flexible depending on individual circumstances, pending ability to attend Orientation.  
+
+RESPONSIBILITIES* Interview key stakeholders to learn from the Data Analytics, Enterprise Data Stewardship, Human Resources, Finance, Risk, etc. in the discovery phase of the project.
+* Learn Power BI, work with the Data Analyst and Data Scientist SMEs, analyze engagement survey data, exit interview data, employee demographics data and others.
+* Research and pull benchmarking data to help inform and identify best practices for dashboards and metrics specific to culture and inclusion.
+* Design an internal data dashboard that includes key data points and metrics that would be beneficial to track culture, employee engagement, and Diversity, Equity, Inclusion & Belonging metrics.
+* Research and identify culture and inclusion metrics and provide recommended targets for each recommended metric that is tracked based on benchmarking data.
+
+
+TYPICAL EDUCATION AND EXPERIENCE:* Pursuing a four-year degree or enrolled in a graduate program. Major emphasis in agriculture, data/analytics, technology, finance, business administration, or equivalent.
+* Minimum 3.0 GPA preferred.
+* Strong verbal, written, analytical, and interpersonal skills.
+* Proficient in Microsoft Office tools, including Word, Excel, and Outlook. Must be comfortable adapting quickly to new technology and software.
+* Must have the ability to travel.
+
+
+REQUIREMENTS:
+Must have the ability to perform basic office tasks, work in an office or outdoor setting and be able to sit at a desk and work at a computer for an extended period of time. This job regularly requires the employee to visit job sites and must be able walk, sit, crouch, kneel, crawl, reach, and be able to lift up to 40 pounds. Ability to navigate around construction equipment and business materials is required. Must have the ability to walk for some distance, more than a mile, during or getting to an inspection. Must have strong written and verbal communication skills to adequately convey ideas and work well with a team. Ability to talk and hear, sit and use their hands and fingers, and reach in all directions is essential in performance of the job. Some travel required and projects requiring driving to local destinations require a clear driver history check. Work during established business hours and may require occasional weekend and/or evening work.
+FULL-TIME REMOTE: These roles and job functions can be done remotely, while maintaining our strong commitment to customer service and our business goals. Employees are welcome to come to an office to work if needed, and some travel for team meetings will be required.
+COMPENSATION:
+$20 per Hour
+#LI-REMOTE
+All hiring is contingent on eligibility to work in the United States. We are unable to sponsor or transfer visas for applicants.
+American AgCredit provides equal opportunity in employment to all employees and applicants. We celebrate diversity and do not discriminate on the basis of race, color, creed, religion, national origin, ancestry, alienage or citizenship status, age, sex, sexual orientation, gender identity, gender expression, marital status, genetic information, medical condition, physical or mental disability, pregnancy, childbirth or related medical condition, military service or veteran status, victims of domestic violence, or any other characteristics protected by applicable federal, state, or local laws. American AgCredit prohibits harassment of any individuals on any of the bases listed above.  
+
+  
+
+If you need assistance or an accommodation due to a disability, you may contact us at jobs@agloan.com.","https://www.glassdoor.com/Overview/W-EI_IE575819.htm","","","","","","https://media.glassdoor.com/sql/575819/american-agcredit-squareLogo-1666641343083.png","","",""
+"54d32bdb90692927","indeed","https://www.indeed.com/viewjob?jk=54d32bdb90692927","https://jobs.cpchem.com/job/USA-Woodlands-Summer-Intern-2025-Business-Intelligence-and-Analytics-TX-77380/1213591100/","Summer Intern 2025 - Business Intelligence and Analytics","Chevron Phillips Chemical","The Woodlands, TX, US","internship","2024-09-16","direct_data","yearly",36839.0,46647.0,"USD",False,"","","","","","You may not realize it, but you’ve likely used a product today made possible by the plastics and chemicals manufactured by Chevron Phillips Chemical. From medical supplies and electronics to food packaging and cosmetics, we create the building blocks for more than 70,000 consumer and industrial products.
+
+  
+
+
+Even as a global company with 5,000 employees, we maintain a “small company feel” and uphold a culture of respect, diversity, and inclusion. Ask any Chevron Phillips Chemical employee what they like best about their job, and universally, the answer is “the people I work with!” We value work-life balance, and love to see our employees thrive both professionally and personally. There has never been a better time to work for Chevron Phillips Chemical. If you’re ready to grow with us and become part of our vision of being the premier Chemical Company, apply today!
+
+  
+
+
+
+At Chevron Phillips Chemical, we view internships as a chance for students to frame their classroom knowledge with real-world experience. No busywork; just challenging, hands-on, relevant assignments that are based on your course of study and previous experience. Co-op or Summer positions at Chevron Phillips provide opportunities for students to gain experience in the ""real world"" work environment. That’s why when you accept an internship with us you can expect to work on meaningful assignments that have the potential to make a difference within the organization.
+
+  
+
+Join our team as a Business Intelligence and Analytics Intern and immerse yourself in the world of data-driven decision-making. This internship offers a unique opportunity to gain hands-on experience in business intelligence and analytics, providing you with the foundational skills needed to thrive in this rapidly evolving field. Step into a learning-rich environment where you will be empowered to explore, learn, and contribute. As an intern, you will collaborate closely with our expert team, contributing to projects that involve data analysis, visualization, and insights generation. This is an excellent way to start your journey of becoming a skilled analytics professional.
+
+
+**Responsibilities:**
+---------------------
+
+
+* “Tell the Story” by:
+
+
+	+ Gathering and exploring data by partnering with our experienced team members and assist in data preparation to ensure accuracy.
+	+ Using Power BI to turn raw data into captivating visualizations.
+	+ Uncovering insights by looking at hidden patterns that drive decision making.
+	+ Documenting and presenting your findings.
+* Engage in team meetings and brain storming sessions to see firsthand how data insights influence business strategies and contribute fresh ideas where possible.
+* Adhere to data governance policies and procedures and ensure compliance with data privacy and security.
+* In a minor role, work with other data and analytics sub-teams to learn and cross train where possible.
+
+**Minimum Qualifications:**
+
+
+* 18 years of age or older
+* Legally authorized to work in the United States and will not now or in the future require sponsorship by the employer
+* Currently pursuing a bachelor’s degree in a quantitative field such as computer science, engineering, mathematics, finance, economics, statistics, analytics, or data science
+* Available to work a minimum of eight continuous weeks
+* Ability to be effective in a team environment.
+* Show a genuine interest in data analysis and a curiosity to explore insights within data.
+* Strong verbal and written communication skills
+
+  
+
+
+
+
+**Preferred:**
+
+
+* Relevant class experience in acquiring/analyzing data in Power BI or other BI tools would be huge plus.
+* Display strong attention to detail when working with data and producing outputs.
+* High level familiarity with data visualization concepts its application.
+* Beginners knowledge of SQL or other data relevant scripting language.
+* A self-starter, being enthusiastic and curios to learn and apply diverse topics and concepts in analytics.
+
+Chevron Phillips Chemical offers competitive salaries, a comprehensive benefits package and at most locations, alternate work schedules.
+
+  
+
+
+Paper resumes will not be accepted. All job seekers must go to the web site to be considered for positions. If you are interested in applying for this position and need an accommodation to apply, please contact our Human Resources Service Center at 1-800-446-1422, option 4.
+
+  
+
+
+Chevron Phillips Chemical Company is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, ancestry, age, disability, veteran status or marital status.
+
+  
+
+
+**To all recruitment agencies:** We are not responsible for any fee related to unsolicited resumes from 3rd party staffing and recruiting agencies (whether submitted through this website or sent directly to employees) unless a written agreement is in place between the agency and Chevron Phillips Chemical Company LP (“Company”) and an authorized Company representative makes a written request to the agency to assist with this requisition. Similarly, no fee will be paid for candidates who apply and claim to be represented by an agency. Any unsolicited resumes, CVs, or other candidate information submitted by an agency will become the property of Company, and no fee will be paid in the event such candidate is hired.
+
+  
+
+**Travel Requirements:** Up to 5%
+
+
+**Eligibility for Relocation:** Yes
+
+
+**Closing Date:** 10/03/2024
+
+  
+
+  
+
+**Nearest Major Market:** Houston
+  
+
+**Job Segment:** Business Intelligence, Summer Internship, Data Analyst, Intern, Computer Science, Technology, Entry Level, Data","https://www.indeed.com/cmp/Chevron-Phillips-Chemical","http://www.cpchem.com","The Woodlands, TX","1,001 to 5,000","more than $10B (USD)","Chevron Phillips Chemical is a leading global producer of olefins and polyolefins and a major supplier of aromatics and specialty chemicals.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fcb9f750340b654076ceb4d4f034344d","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/c3c32f572826e8d1d37e0664a9238997","Bruce Chinn","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/5bc608130e08f5712f2dbf5baa22e1d6"
+"6eeb621729a1f81b","indeed","https://www.indeed.com/viewjob?jk=6eeb621729a1f81b","https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Boston-Massachusetts/Audit-Data-Analyst-Intern_R-757843","Audit Data Analyst Intern","State Street","Boston, MA, US","fulltime","2024-09-16","direct_data","yearly",78809.0,99789.0,"USD",False,"","","","","","Who we are looking for
+We are looking for Integrated Audit Data Analyst, Intern to join the Corporate Audit Team. This role is open to graduate and undergraduate students; however graduate students with Audit experience are preferred. Corporate Audit conducts internal audits of all of State Street’s business lines, including Investment Services, Global Markets, Global Advisors, and corporate functions. In this position, you will play a data specialist role as part of dynamic and cross functional teams responsible for the execution of individual audit engagements. In this role, you will work under the direction of audit project lead or an experienced auditor to support the execution of the audit through the use of data analytics. This will require both audit skills, as well as an understanding of data analytics, to allow the audit intern to interface with business partners, and to learn about and contribute to the execution of control design assessments and operational effectiveness testing, development of audit test conclusions and drafting summary observations. The Integrated Audit Data Analyst Intern will partner with both the Data Analytics team and the business audit team to design data-driven test approaches in audit projects. You will also work with the business audit teams to analyze the results of data analytic control tests to identify potential control weaknesses. This role is based out of Boston, MA, USA.
+Why this role is important to us
+The team you will be joining plays an important role in the overall success of the organization. Across the globe, institutional investors rely on us to help them manage risk, respond to challenges, and drive performance and profitability; regulators rely upon us to provide assurance that the bank operates in a manner that is compliant with key banking regulations to properly manage risks to the company and the global financial systems. To make that happen we need teams like yours to help navigate employees and the organization as a whole. In your role, you will help us build resilience and execute day to day deliverables at our best. Join us if making your mark in the financial services industry from day one is a challenge you are up for.
+What you will be responsible for
+As an Integrated Audit Data Analyst, Intern you will:* Leverage data analytics skills to assist in the performance of audit work in line with the Division’s risk-based methodology and the Institute of Internal Auditor’s standards to identify and understand risk; determine control objectives; and evaluate whether controls sufficiently address identified risks through various data analysis techniques.
+* Engage with both the Business Audit Team and the Data Analytics Team to ensure an understanding of business processes and data analytics capabilities, to drive better data analytics outcomes.
+* Obtain and analyze evidentiary data as a basis for forming objective opinions on the adequacy and effectives of controls under review. This may include previously-identified data analytics approaches; however the Integrated Audit Data Analyst Intern will be expected to leverage their data analytics knowledge to partner with the central Data Analytics team and the business audit team to assist in the design and execution of enhanced analytics approaches.
+* Review corrective actions taken by management to improve deficient conditions.
+* Escalate potential issues / obstacles to audit management along with proposed solutions.
+* Develop and maintain understanding of internal State Street products and processes, relevant industry and regulatory topics, and data analytics best practices.
+* Develop an understanding of State Street data constructs, systems, and processes, to better position the team for more effective data analytics-based auditing.
+* Share successes and challenges with peer Integrated Data Analysts and the Data Analytics Team to increase the future success of the Data Analytics program.
+
+
+What we value
+These skills will help you succeed in this role:* The ability to operate in a complex, non-routine and fast-paced environment that requires working independently and as part of a team.
+* Strong technical ability in data analysis and control testing
+* Ability to clearly demonstrate proficiency in evaluating business processes, identifying inherent risk and testing associated internal controls.
+* A high degree of professionalism and proficient organizational, analytical, problem solving and project management skills.
+* Excellent communication (written and verbal), interpersonal and presentation skills
+* Proven ability to research, interpret and apply regulatory requirements.
+
+
+Education & Preferred Qualifications* 1+ years of experience in Public Accounting, Internal Auditing, or financial services experience.
+* Professional experience and/or a degree in related to the use of data analytics.
+* Technical data analytics skills, including the use of SQL, Python, R, Tableau, PowerBI, Alteryx, and other analytics and automation tools.
+* Bachelor’s degree, or Bachelor’s degree candidate, preferable in finance, accounting or related field.
+* Experience in auditing information technology general controls.
+
+
+Additional requirements
+While majority of the time you will work from your primary location, some domestic and international travel may be required to a variety of locations where State Street operates.
+Are you the right candidate? Yes!
+We truly believe in the power that comes from the diverse backgrounds and experiences our employees bring with them. Although each vacancy details what we are looking for, we don’t necessarily need you to fulfil all of them when applying. If you like change and innovation, seek to see the bigger picture, make data driven decisions and are a good team player, you could be a great fit.
+About State Street
+What we do. State Street is one of the largest custodian banks, asset managers and asset intelligence companies in the world. From technology to product innovation, we’re making our mark on the financial services industry. For more than two centuries, we’ve been helping our clients safeguard and steward the investments of millions of people. We provide investment servicing, data & analytics, investment research & trading and investment management to institutional clients.
+Work, Live and Grow. We make all efforts to create a great work environment. Our benefits packages are competitive and comprehensive. Details vary by location, but you may expect generous medical care, insurance and savings plans, among other perks. You’ll have access to flexible Work Programs to help you match your needs. And our wealth of development programs and educational support will help you reach your full potential.
+Inclusion, Diversity and Social Responsibility. We truly believe our employees’ diverse backgrounds, experiences and perspectives are a powerful contributor to creating an inclusive environment where everyone can thrive and reach their maximum potential while adding value to both our organization and our clients. We warmly welcome candidates of diverse origin, background, ability, age, sexual orientation, gender identity and personality. Another fundamental value at State Street is active engagement with our communities around the world, both as a partner and a leader. You will have tools to help balance your professional and personal life, paid volunteer days, matching gift programs and access to employee networks that help you stay connected to what matters to you.
+State Street is an equal opportunity and affirmative action employer.
+Discover more at StateStreet.com/careers
+Salary Range:
+$15,600 - $58,500 Annual
+The range quoted above applies to the role in the primary location specified. If the candidate would ultimately work outside of the primary location above, the applicable range could differ.
+Job Application Disclosure:
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+State Street's Speak Up Line","https://www.indeed.com/cmp/State-Street","http://www.statestreet.com","Boston, MA","10,000+","more than $10B (USD)","A State Street career means a chance to grow your skills, make your mark on your community, and impact the strength of the world economy.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f824de629ece372456a72c665b2d8b03","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/988d4d3d5db95ef38aaabb7b84f18b83","Ronald O'Hanley","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/d6d51cd9596c4540e6c61f9ce49a54bb"
+"bedde905ab1ce025","indeed","https://www.indeed.com/viewjob?jk=bedde905ab1ce025","https://www.vscyberhosting.com/txfb/Careers.aspx?req=2024-ACTADM-004&type=JOBDESCR","Data Analyst Intern","Texas Farm Bureau - Insurance Agents","TX, US","parttime, internship","2024-09-16","direct_data","yearly",33646.0,42603.0,"USD",False,"","","","","","Job Responsibilities:  
+
+  
+
+  
+
+  
+
+This is a paid internship position. Internships will last a maximum of one year, and interns are allowed to work a maximum of 19 hours per week.
+
+
+
+This position will assist with projects related to Property and Casualty (P&C) Insurance product pricing, P&C Loss Reserve Analysis, and Analysis of Risk. Additionally, this position may assist with special projects designed to gather, evaluate, and report on data to influence strategic decision making in support of P&C insurance companies’ objectives.  
+
+
+
+
+**MAJOR RESPONSIBILITIES AND AUTHORITY**  
+
+
+
+
+**Position Responsibilities:**  
+
+
+
+
+Assist in data collection, validation, and analysis.  
+
+
+
+
+Support the development, maintenance, and work within databases of relevant information for analysis and report development.  
+
+
+
+
+Provide support to the Actuarial Department in the areas of pricing, reserving, and research.  
+
+
+
+
+Coordinate with cross-functional teams and contribute an understanding of data to enrich processes and support change based on analysis.  
+
+
+
+
+Perform other assignments and special projects as requested.  
+
+
+
+
+Other duties as assigned.
+
+  
+
+  
+
+  
+
+Job Qualifications:  
+
+  
+
+  
+
+  
+
+Enrolled in college courses with emphasis in Statistics, Economics, Finance, or a related field.
+
+
+Ability and willingness to learn and extend skills.  
+
+
+
+
+Strong oral and written communication skills.
+
+
+
+Proficient in use of Microsoft Office software.
+
+
+
+Knowledge of SQL helpful.  
+
+
+
+
+Willing to travel as required.
+
+  
+
+  
+
+  
+
+Other Job Information (if applicable):  
+
+  
+
+  
+
+  
+
+Repeated use of PC, telephone, and office machines.
+
+
+
+Extended periods of sitting and concentration.
+
+
+
+Occasional bending, twisting, crouching, pulling, pushing, and reaching in an office environment.
+
+
+
+Occasional lifting and moving items weighing up to 30 lbs.
+
+
+**WORKING CONDITIONS**
+
+
+
+Occasional travel by auto or other public transportation.
+
+
+
+Work to be conducted in office environment owned or leased by company.
+
+
+**REVISED** October 2023","https://www.indeed.com/cmp/Texas-Farm-Bureau---Insurance-Agents","https://www.txfb-ins.com/","","1,001 to 5,000","Decline to state","An Insurance Provider built by Texans, for Texans. Ranked “highest service satisfaction among auto insurers in Texas” eleven years in a row.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/816e77dd4c8f45bf42678bc524c454e4","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/483a3bee2d33916ca5e6f0ed47e4d84e","","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/927438d00b456fba90219c6b66c2604c"
+"fd30599692945589","indeed","https://www.indeed.com/viewjob?jk=fd30599692945589","http://www.indeed.com/job/desktop-support-and-data-analyst-intern-fd30599692945589","Desktop support and Data analyst Intern","Flinchbaugh Engineering, Inc.","York, PA, US","fulltime","2024-09-16","direct_data","hourly",18.0,22.0,"USD",False,"","","","","","**Ready to roll up your sleeves and dive into the world of IT?** We're looking for a tech-savvy intern excited to tackle real-world challenges in a fast-paced manufacturing environment. If you're the type who thrives on solving problems, loves getting to the root cause, and can’t wait to turn data into actionable insights, this might just be your dream gig.
+
+**What You’ll Be Doing:**
+
+* **First on the Scene:** You’ll be the go-to person for desktop support, helping our team troubleshoot and resolve IT issues as they arise. From PCs to mobile devices, if it’s tech-related, you’re on it.
+* **Problem-Solving Pro:** Triaging issues is your superpower. You’ll work closely with our team to keep things running smoothly, ensuring that any IT hiccups don’t slow down our production lines.
+* **Document & Dominate:** You’ll be documenting processes and keeping everything organized so we can keep improving how we do things.
+* **Data Dynamo:** Dive into ERP and SQL database reporting. You’ll assist in providing stakeholders with the insights they need to make data-driven decisions that keep our operations humming.
+
+**Why You’ll Love This Internship:**
+
+* **Hands-On Experience:** This isn’t just another desk job. You’ll get to experience IT service delivery in a gritty, real-world environment, where your work directly impacts our manufacturing processes.
+* **Team Vibes:** Our team appreciates every bit of effort in keeping our operations online. You'll be part of a tight-knit group that values collaboration and celebrates wins together.
+* **Skill Building:** Whether it’s sharpening your desktop support skills or exploring the exciting world of data analytics, this internship offers the perfect blend of learning and doing.
+
+**What We’re Looking For:**
+
+* **Tech Enthusiast:** You’ve got a natural flair for desktop support and a burning curiosity to understand why things work (or don’t).
+* **Data Driven:** You’re excited about using data to make a difference, and you’re eager to learn more about ERP systems and SQL reporting.
+* **Team Player:** You’re ready to jump in, get your hands dirty, and work alongside a team that’s passionate about what they do.
+
+**The Perks:**
+
+* **Real Impact:** Your work will help keep our manufacturing operations running smoothly, making a tangible difference every day.
+* **Growth Opportunities:** This isn’t just an internship—it’s a launchpad for your IT career, offering a blend of hands-on experience and professional growth.
+* **Fun Environment:** We’re serious about our work, but we like to keep things light and fun. Expect a supportive environment where you can thrive and make a difference.
+
+Job Type: Full-time
+
+Pay: $18.00 - $22.00 per hour
+
+Expected hours: 40 per week
+
+Benefits:
+
+* 401(k)
+* Dental insurance
+* Health insurance
+* Health savings account
+* Life insurance
+* Paid holidays
+* Paid time off
+* Parental leave
+* Prescription drug insurance
+* Professional development assistance
+* Retirement plan
+* Tuition reimbursement
+* Vision insurance
+
+Schedule:
+
+* Monday to Friday
+
+Experience:
+
+* Desktop support: 1 year (Required)
+
+Ability to Commute:
+
+* York, PA 17406 (Preferred)
+
+Ability to Relocate:
+
+* York, PA 17406: Relocate before starting work (Required)
+
+Work Location: In person","https://www.indeed.com/cmp/Flinchbaugh-Engineering,-Inc.-3","","","","","","","","",""
+"4025966289","linkedin","https://www.linkedin.com/jobs/view/4025966289","","Cooperative Education Student - Finance","Schaeffler","Fort Mill, SC","","2024-09-14","","","","","","","","","","","","","https://de.linkedin.com/company/schaeffler","","","","","","","","",""
+"4023992976","linkedin","https://www.linkedin.com/jobs/view/4023992976","","Data Analyst Intern (Summer 2025)","Highline Warren","Memphis, TN","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/highline-warren","","","","","","","","",""
+"4009024030","linkedin","https://www.linkedin.com/jobs/view/4009024030","","Data Analyst Intern GSIP","Gallagher","New York, NY","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/gallagher-global","","","","","","","","",""
+"4025089497","linkedin","https://www.linkedin.com/jobs/view/4025089497","","Data Analyst Intern","ZURU Toy Company","Los Angeles County, CA","","","","","","","","","","","","","","","https://nz.linkedin.com/company/zuru","","","","","","","","",""
+"1009448330939","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448330939","","Audio Machine Learning Intern","Bose","Framingham, MA","","2024-09-16","direct_data","yearly",59704.0,108047.0,"USD",False,"","","","organic","Wellbeing@bose.com, wellbeing@bose.com","You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. We’ve dedicated ourselves to improving it for nearly 60 years. And we’re passionate down to our bones about making whatever you’re listening to a little more magical.
+The engineering team at Bose is a thriving, passionate, deeply skilled team of professionals from a broad range of disciplines and experiences, who share a common goal—to create products that provide transformative sound experiences.
+Job Description
+THE PROGRAM
+We're looking for students to join our Internship Program who are obsessively curious about 'what's next'. You'll get hands on experience with our products and learn from the best of the best in the business. You will immerse yourself into Bose for 3 months and get the opportunity to grow the skills you learned in the classroom with hands on work experience. By the time you end your time with us, you will have been given the opportunity to truly make a real impact in the future of Bose and your career!
+Opportunities don't stop at your day-to-day work. While you're getting an in depth look at your area of expertise, we'll expose you to other areas of the company. Our Interns are given the opportunity to connect with senior leadership across the business to understand different perspectives at Bose. You'll network with other Interns and colleagues to grow your network for the future!
+Timeframe - June-August 2025
+THE ROLE
+The goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real-time, on physical devices, for applications such as voice pickup, hearing augmentation and ones we haven't even thought of yet. As part of the team, you will work with experts in machine learning (ML), digital signal processing (DSP), software engineering and psychoacoustics to prototype and implement new algorithms.
+Bose has a strong history of combining creative thinking with cutting-edge technology in the audio domain. We are looking for candidates passionate about machine learning and audio to help us shape the next chapter in the future of Bose!  
+
+  
+
+Responsibilities:  
+
+* Most of your time will be devoted to prototyping, implementing and evaluating ML algorithms, curating and developing internal resources, and presenting your findings.
+* You will integrate your novel solutions into existing systems and platforms to showcase new (proof of concept) solutions.
+* You will be able to contribute to projects, which will be shipped to Bose customers, apply for patents, and/or submit papers to top-tier AI and signal processing conferences (e.g., NeurIPS, ICASSP, Interpeech, etc.).
+
+  
+
+Education:  
+
+* Pursuing or recently finished a graduate-level degree in ML, Computer Science, Music Technology or a related field.
+
+  
+
+Skills:  
+
+* Practical knowledge of applied audio ML and digital signal processing (DSP).
+* Hands-on experience with at least one of the following research topics: source separation, speech enhancement, microphone array signal processing (e.g., beamforming), generative audio modeling, TinyML (e.g., compression, quantization, pruning).
+* Familiarity with methods for spatial audio synthesis, room acoustics simulation or acoustic echo cancellation (AEC) is a plus.
+* Experience developing ML algorithms in Python, TensorFlow/PyTorch and/or C/C++.
+* Familiarity with standard version control practices.
+* Familiarity with the following technologies is also preferred: TFLite, ONNX and/or AWS stack.
+* Strong communication skills. You will present your work internally to a large, interdisciplinary audience on a regular basis.
+
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP\\_EEO\\_Supplement\\_Final\\_JRF\\_QA\\_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665\\_PrescribedNondiscriminationPostingLanguage\\_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.
+If you believe you need a reasonable accommodation, please send a note to wellbeing@bose.com","https://www.glassdoor.com/Overview/W-EI_IE3098.htm","","","","","","https://media.glassdoor.com/sql/3098/bose-squarelogo-1582730435570.png","","",""
+"1009446316017","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446316017","","Computer Vision and Machine Learning Intern","Kodiak","Mountain View, CA","","2024-09-14","direct_data","yearly",113771.0,164194.0,"USD",False,"","","","organic","","Kodiak was founded in April 2018 to develop autonomous technology that carries freight forward—so people, partners, and the planet thrive. Navigating highway environments present vastly different challenges than urban streets. Kodiak’s experienced team has developed the industry’s most advanced technology stack purpose-built specifically for long-haul trucks. From our sensor fusion system that maximizes the value of every sensing modality to our unique lightweight mapping solution that allows our trucks to navigate ever-changing highway construction zones, our world-class team of industry pioneers is bringing the benefits of autonomy to the $800B a year trucking industry quickly, safely, and efficiently.  
+
+We are looking for a highly skilled Computer Vision and Machine Learning intern to join us and solve real-world robotics problems.
+### **In this role, you will:**
+
+* Design and implement state-of-the-art machine learning algorithms using robust, efficient C++ and Python code, ensuring high-quality testing and reliability.
+* Lead the development of innovative deep neural networks to address key robotics problems, such as lane detection, object detection, sign recognition, and 3D perception.
+* Collaborate with various sensor technologies like cameras, lidars, and radars to create and refine machine learning datasets, enhancing performance with growing data.
+* Develop and manage automated training pipelines, ensuring seamless integration and efficiency in the machine learning process.
+* Work within Kodiak's advanced software ecosystem, pushing the frontiers of existing autonomous systems through continuous innovation and development.
+
+### **Qualifications:**
+
+* Strong technical background. You are currently pursuing an MS or Ph.D. and have hands-on experience in designing and implementing deep neural networks; exceptional candidates pursuing a BS are considered.
+* You are a skilled software engineer with experience in C++ and strong problem-solving skills.
+* You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+* A team player.
+* You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+* Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+* Hands-on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+* Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+
+### **Internship Program Details:**
+
+* Start Date: January 2025.
+* Our internship program is 12-16 weeks; the end date is flexible based on individual needs.
+* Location: Mountain View, CA
+* Housing: interns are responsible for housing.
+
+### **What We Offer:**
+
+* A fast paced environment where we work with talented, committed and supportive teammates.
+* Competitive pay.
+* Excellent medical, dental and vision benefits.
+* A beautiful facility in Mountain View.
+* We love our dogs, so we are a dog friendly office!
+* Free catered lunch.
+
+  
+
+The salary range for this intern position is $9,166 - $10,000 . Our salary ranges are determined by role, level and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. We can share more about the specific salary range for your job level during the hiring process. Please note that the compensation details listed above are base salary only and do not include bonus, equity, or benefits.  
+
+At Kodiak, we strive to build a diverse community working towards our common company goals in a safe and collaborative environment where harassment of any kind is strictly prohibited. Kodiak is committed to equal opportunity employment regardless of race, ethnicity, religion, gender identity, sexual orientation, age, disability, or veteran status, or any other basis protected by applicable law.  
+
+In alignment with its business operations, Kodiak adheres to all relevant U.S. national security statutes, regulations, and administrative prerequisites. These statutes may impose limitations on Kodiak's capacity to engage specific individuals in particular roles based on various national security-related criteria. Consequently, the eligibility for this position may hinge on Kodiak's verification of a candidate's residence, U.S. person status, and/or citizenship status. In accordance with these statutes , Kodiak may find it necessary to secure a U.S. government export license before disseminating its technologies to specific individuals. Should Kodiak determine that a candidate's residence, U.S. person status, and/or citizenship status necessitate a license, prohibit the candidate from assuming this position, or otherwise fall under national security-related restrictions, Kodiak explicitly retains the right to either assess the candidate for an alternative position unaffected by such restrictions, under terms and conditions set forth at Kodiak's sole discretion, or, as an alternative, opt not to proceed with the candidate's application.","https://www.glassdoor.com/Overview/W-EI_IE2308879.htm","","","","","","https://media.glassdoor.com/sql/2308879/kodiak-squarelogo-1555436174505.png","","",""
+"6a2c9d8069f82b34","indeed","https://www.indeed.com/viewjob?jk=6a2c9d8069f82b34","https://boseallaboutme.wd1.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern_R27507","Audio Machine Learning Intern","Bose","Framingham, MA, US","parttime","2024-09-16","direct_data","yearly",50811.0,64338.0,"USD",False,"","","Computers And Electronics","","Wellbeing@bose.com, wellbeing@bose.com","You know the moment. It’s the first notes of that song you love, the intro to your favorite movie, or simply the sound of someone you love saying “hello.” It’s in these moments that sound matters most.
+At Bose, we believe sound is the most powerful force on earth. We’ve dedicated ourselves to improving it for nearly 60 years. And we’re passionate down to our bones about making whatever you’re listening to a little more magical.
+The engineering team at Bose is a thriving, passionate, deeply skilled team of professionals from a broad range of disciplines and experiences, who share a common goal—to create products that provide transformative sound experiences.
+Job Description
+THE PROGRAM
+We're looking for students to join our Internship Program who are obsessively curious about 'what's next'. You'll get hands on experience with our products and learn from the best of the best in the business. You will immerse yourself into Bose for 3 months and get the opportunity to grow the skills you learned in the classroom with hands on work experience. By the time you end your time with us, you will have been given the opportunity to truly make a real impact in the future of Bose and your career!
+Opportunities don't stop at your day-to-day work. While you're getting an in depth look at your area of expertise, we'll expose you to other areas of the company. Our Interns are given the opportunity to connect with senior leadership across the business to understand different perspectives at Bose. You'll network with other Interns and colleagues to grow your network for the future!
+Timeframe - June-August 2025
+THE ROLE
+The goal of our team is to develop novel AI-powered audio processing algorithms. The twist is that our algorithms must run in real-time, on physical devices, for applications such as voice pickup, hearing augmentation and ones we haven't even thought of yet. As part of the team, you will work with experts in machine learning (ML), digital signal processing (DSP), software engineering and psychoacoustics to prototype and implement new algorithms.
+Bose has a strong history of combining creative thinking with cutting-edge technology in the audio domain. We are looking for candidates passionate about machine learning and audio to help us shape the next chapter in the future of Bose!  
+
+  
+
+Responsibilities:  
+
+* Most of your time will be devoted to prototyping, implementing and evaluating ML algorithms, curating and developing internal resources, and presenting your findings.
+* You will integrate your novel solutions into existing systems and platforms to showcase new (proof of concept) solutions.
+* You will be able to contribute to projects, which will be shipped to Bose customers, apply for patents, and/or submit papers to top-tier AI and signal processing conferences (e.g., NeurIPS, ICASSP, Interpeech, etc.).
+
+  
+
+Education:  
+
+* Pursuing or recently finished a graduate-level degree in ML, Computer Science, Music Technology or a related field.
+
+  
+
+Skills:  
+
+* Practical knowledge of applied audio ML and digital signal processing (DSP).
+* Hands-on experience with at least one of the following research topics: source separation, speech enhancement, microphone array signal processing (e.g., beamforming), generative audio modeling, TinyML (e.g., compression, quantization, pruning).
+* Familiarity with methods for spatial audio synthesis, room acoustics simulation or acoustic echo cancellation (AEC) is a plus.
+* Experience developing ML algorithms in Python, TensorFlow/PyTorch and/or C/C++.
+* Familiarity with standard version control practices.
+* Familiarity with the following technologies is also preferred: TFLite, ONNX and/or AWS stack.
+* Strong communication skills. You will present your work internally to a large, interdisciplinary audience on a regular basis.
+
+Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP\\_EEO\\_Supplement\\_Final\\_JRF\\_QA\\_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665\\_PrescribedNondiscriminationPostingLanguage\\_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.
+Our goal is to create an atmosphere where every candidate feels supported and empowered in the interviewing process. Diversity and inclusion are integral to our success, and we believe that providing reasonable accommodation is not only a legal obligation but also a fundamental aspect of our commitment to being an employer of choice. We recognize that individuals may have different needs and requirements based on their abilities, and we provide reasonable accommodations to ensure ideal conditions are met during the application process.
+If you believe you need a reasonable accommodation, please send a note to wellbeing@bose.com","https://www.indeed.com/cmp/Bose","https://www.bose.com/en_us/careers.html","The Mountain","5,001 to 10,000","$1B to $5B (USD)","At Bose, we’re obsessed with what matters most — the little details that make a big difference, and the big details that astonish.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/270aaaf923063f9e4f6e34eda023bd83","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/41433ca1335ef9ce52642749df2fe98c","Lila Snyder ","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/0f2fa7e9db67d82781d32e073a794498"
+"97f05fb9866bb1c7","indeed","https://www.indeed.com/viewjob?jk=97f05fb9866bb1c7","https://jobs.lever.co/kodiak/89a618ba-2746-4188-9f26-2110b8763e85?lever-source=Indeed","Computer Vision and Machine Learning Intern","Kodiak","Mountain View, CA, US","internship","2024-09-13","direct_data","yearly",64859.0,82126.0,"USD",False,"","","","","","Kodiak was founded in April 2018 to develop autonomous technology that carries freight forward—so people, partners, and the planet thrive. Navigating highway environments present vastly different challenges than urban streets. Kodiak’s experienced team has developed the industry’s most advanced technology stack purpose-built specifically for long-haul trucks. From our sensor fusion system that maximizes the value of every sensing modality to our unique lightweight mapping solution that allows our trucks to navigate ever-changing highway construction zones, our world-class team of industry pioneers is bringing the benefits of autonomy to the $800B a year trucking industry quickly, safely, and efficiently.  
+
+We are looking for a highly skilled Computer Vision and Machine Learning intern to join us and solve real-world robotics problems.
+### **In this role, you will:**
+
+* Design and implement state-of-the-art machine learning algorithms using robust, efficient C++ and Python code, ensuring high-quality testing and reliability.
+* Lead the development of innovative deep neural networks to address key robotics problems, such as lane detection, object detection, sign recognition, and 3D perception.
+* Collaborate with various sensor technologies like cameras, lidars, and radars to create and refine machine learning datasets, enhancing performance with growing data.
+* Develop and manage automated training pipelines, ensuring seamless integration and efficiency in the machine learning process.
+* Work within Kodiak's advanced software ecosystem, pushing the frontiers of existing autonomous systems through continuous innovation and development.
+
+### **Qualifications:**
+
+* Strong technical background. You are currently pursuing an MS or Ph.D. and have hands-on experience in designing and implementing deep neural networks; exceptional candidates pursuing a BS are considered.
+* You are a skilled software engineer with experience in C++ and strong problem-solving skills.
+* You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+* A team player.
+* You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+* Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+* Hands-on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+* Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+
+### **Internship Program Details:**
+
+* Start Date: January 2025.
+* Our internship program is 12-16 weeks; the end date is flexible based on individual needs.
+* Location: Mountain View, CA
+* Housing: interns are responsible for housing.
+
+### **What We Offer:**
+
+* A fast paced environment where we work with talented, committed and supportive teammates.
+* Competitive pay.
+* Excellent medical, dental and vision benefits.
+* A beautiful facility in Mountain View.
+* We love our dogs, so we are a dog friendly office!
+* Free catered lunch.
+
+  
+
+The salary range for this intern position is $9,166 - $10,000 . Our salary ranges are determined by role, level and location. The range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. We can share more about the specific salary range for your job level during the hiring process. Please note that the compensation details listed above are base salary only and do not include bonus, equity, or benefits.  
+
+At Kodiak, we strive to build a diverse community working towards our common company goals in a safe and collaborative environment where harassment of any kind is strictly prohibited. Kodiak is committed to equal opportunity employment regardless of race, ethnicity, religion, gender identity, sexual orientation, age, disability, or veteran status, or any other basis protected by applicable law.  
+
+In alignment with its business operations, Kodiak adheres to all relevant U.S. national security statutes, regulations, and administrative prerequisites. These statutes may impose limitations on Kodiak's capacity to engage specific individuals in particular roles based on various national security-related criteria. Consequently, the eligibility for this position may hinge on Kodiak's verification of a candidate's residence, U.S. person status, and/or citizenship status. In accordance with these statutes , Kodiak may find it necessary to secure a U.S. government export license before disseminating its technologies to specific individuals. Should Kodiak determine that a candidate's residence, U.S. person status, and/or citizenship status necessitate a license, prohibit the candidate from assuming this position, or otherwise fall under national security-related restrictions, Kodiak explicitly retains the right to either assess the candidate for an alternative position unaffected by such restrictions, under terms and conditions set forth at Kodiak's sole discretion, or, as an alternative, opt not to proceed with the candidate's application.","https://www.indeed.com/cmp/Kodiak","","","","","","","","",""
+"4023583403","linkedin","https://www.linkedin.com/jobs/view/4023583403","","Machine Learning Intern","Ibotta","Denver, CO","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/ibotta-inc-","","","","","","","","",""
+"4025584826","linkedin","https://www.linkedin.com/jobs/view/4025584826","","Audio Machine Learning Intern","Bose Corporation","","","","","","","","","","","","","","","","https://www.linkedin.com/company/bose-corporation","","","","","","","","",""
+"4025584825","linkedin","https://www.linkedin.com/jobs/view/4025584825","","Audio Machine Learning Intern","Bose Corporation","","","","","","","","","","","","","","","","https://www.linkedin.com/company/bose-corporation","","","","","","","","",""
+"4025586213","linkedin","https://www.linkedin.com/jobs/view/4025586213","","Audio Machine Learning Intern","Bose Corporation","Framingham, MA","","","","","","","","","","","","","","","https://www.linkedin.com/company/bose-corporation","","","","","","","","",""
+"1009446195103","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446195103","","Technical Intern 1, Artificial Intelligence (Remote)","Applied Research Associates, Inc","Panama City, FL","","2024-09-14","direct_data","yearly",42232.0,75376.0,"USD",False,"","","","organic","","ARA is seeking a talented Artificial Intelligence (AI) Intern to join their team. As an AI Intern, you will explore and implement AI solutions in solving complex problems. This is a part-time, fully remote position.
+
+
+**Minimum Qualifications:**
+
+
+* Pursuing a candidate that is currently seeking a BS or MS in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+* Proficiency in programming languages like Python, Java, C++ and have exceptional programming skills.
+* Coursework, experience, or knowledge related to Large Language Models (LLM's).
+* Experience data mining from LLMs.
+* Proficient with Microsoft Office Suite.
+* Previous experience preparing proposals is highly desired.
+
+**Responsibilities:**
+
+
+* Works closely with ARA managers to develop artificial intelligence tools with a goal of automating a particular process.
+* Works with subject matter experts to understand their needs and capture workflows for AI solutions.
+* Follows technical guidelines and best practices for source control, documentation, and responsible and ethical AI.
+* Monitor and troubleshoot AI systems to ensure performance and reliability.
+* Perform other related duties as needed.
+
+**Company information:**
+
+
+ARA is an employee-owned international research and engineering company recognized for providing superior solutions to complex and challenging problems in the physical sciences. The company, founded in Albuquerque, NM, in 1979, currently employs over 2,000 professionals. ARA offices throughout the United States and Canada provide a broad range of technical expertise in defense technologies, civil technologies, computer software and simulation, systems analysis, environmental technologies, and testing and measurement. The corporation also provides sophisticated technical products for environmental site characterization, pavement analysis, and robotics.
+
+
+At ARA, employees are our greatest assets. The corporation realizes that employee ownership spawns greater creativity and initiative along with higher performance and customer satisfaction levels. ARA gives its employees the tools, training, and opportunities to take more active roles as owners. The culture is challenging; innovation and experimentation are the norm. Employees are eligible for contributions which not only add to the company’s success, but also their own through the Employee Stock Ownership Plan (ESOP). The motto, “Engineering and Science for Fun and Profit” sums up the ARA experience.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.glassdoor.com/Overview/W-EI_IE135302.htm","","","","","","https://media.glassdoor.com/sql/135302/applied-research-associates-squarelogo.png","","",""
+"6f0db9cc03e34283","indeed","https://www.indeed.com/viewjob?jk=6f0db9cc03e34283","https://bit.ly/D4H_Internship","Data, Machine Learning and AI intern with communication and leadership training","Dance4Healing","Remote, US","internship","2024-09-14","","hourly","","","USD",True,"","","Health Care","","","The impact of the Pandemic is long-lasting. Dance4Healing supports the mental, physical, and neuro health of chronic disease patients and elders. Our telehealth live video platform aims to empower everyone to dance from anywhere, anytime, with anyone! We need your talent to support this noble mission. This is an internship 100% remote with an international cohort of students from all over the world. Inspired by my 6.5 years of extensive personal breakthrough, communication, and leadership training, this internship is designed to nurture young professionals through a comprehensive personal and professional development program.
+
+Read more: **https://bit.ly/D4H\\_InternshipProgram**
+
+We’re looking for **Data Science, Machine Learning, and AI interns** to join the engineering team and participate in the development process.
+
+Please apply here, and share with friends who can benefit from this transformative program.
+
+**http://bit.ly/D4H\\_Internship**
+
+**========================**
+
+**Company description**
+
+**Dance4Healing: www.dance4healing.com**
+
+An award-winning social venture, Dance4Healing is an NIH-funded, patented AI telehealth platform that pairs elders/chronic disease patients/caregivers with compatible buddies to build fun, lasting habits through recorded and live video classes (Imagine YouTube + Zoom + eHarmony for health buddies). Inspired by founder Amy Li’s Stage IV cancer recovery, our mission is to make healthy habits accessible, supportive, and fun, enriching the lives of people of all abilities, ages, races, and genders. Our vision is to be the global cultural hub leading the experience in bridging art and health.
+
+Our work environment includes:
+
+* 100% remote
+* Regular team bonding exercise
+* Flexible hours with communication
+* Communication and leadership coaching
+
+**Did you know:** Creative Arts Therapy (CAT) improves the Quality of Life by 50% and reduces pain by 59% for cancer patients? Dancing reduces the risk of dementia by 76% and Cardiovascular death by 46%? Despite these published medical studies, **Arts and Health intervention (A&H: Music, Dance, Arts)** is severely under-utilized in healthcare; Dance4Healing is teaming up with Stanford to change that. We started with the Stanford Cancer Supportive Care Program and won over 20 awards, including the **AARP CES annual pitch ""People's Choice Award""**. We were selected for the **National Institute of Health** (NIH) Applicant Assistance Program (AAP), a 10-week coaching program designed to assist small businesses applying for Phase I SBIR/STTR funding. Dance4Healing is now funded by the **National Institute on Minority Health and Health Disparities (NIMHD)and** has additional NIH and NSF grants (total ~$ 1 million) pending.
+
+**StageIV.org:** A global network of leaders who champion creative arts therapy, integrative medicine, patient advocacy, and healthcare innovation. Inspired by Dance4Healing‘s founder Amy Li’s Stage IV cancer journey and her commitment to patient advocacy and healthcare transformation, Stage IV {Wicked Wisdom} Media Network is an educational arm of Dance4Healing including Stage IV Show (https://bit.ly/StageIVShow), Book (https://bit.ly/StageIV\\_Book), and Web Magazine (https://www.stageiv.org).
+
+**Learn our mission at http://bit.ly/StageIV\\_Mission**
+
+**APPLY HERE: http://bit.ly/D4H\\_Internship**
+
+**====================================**
+
+**Job description**
+
+**Dance4Healing, a Harvard/ Stanford startup, is looking for Computer Science, Data, and AI students.**
+
+We offer mentorship, coaching, communication, team management, and leadership training for the internship. This is an excellent opportunity to share your passion and skills, and the hours are flexible. Read more:
+
+You will be working with a group of passionate experts with top academic performance and industry experience at Singularity University, Harvard, and Stanford, while helping build Stage IV {Wicked Wisdom} Media Network, an educational global media network featuring industry experts like Dr. George Church (Harvard geneticist), David Kelley (IDEO Founder), Peter Diamandis (Founder of X Prize Foundation, Singularity University, Zero Gravity, Human Longevity Inc.), etc. You will gain experience with your resume, serving underserved communities of chronic disease patients and the elderly.
+
+**The Role:**
+
+* **Healthcare Data Analysis:** Analyze healthcare datasets to uncover trends and create visualizations that support culturally sensitive AI development.
+* **Culturally Sensitive AI:** Assist in building AI models that integrate cultural variables to enhance predictive accuracy and equity in healthcare.
+* **Multi-level Tracking:** Implement systems to track patient outcomes, demographics, and cultural factors across various healthcare settings.
+* **Data Preprocessing:** Clean and preprocess data, ensuring quality and consistency, especially with cultural and demographic information.
+* **Health Equity Analysis:** Use statistical methods to identify disparities in healthcare, focusing on culturally informed interventions.
+* **Collaborative Projects:** Work with healthcare providers, engineers, and equity experts to develop culturally sensitive data-driven solutions.
+* **Reporting and Documentation:** Prepare and present reports that highlight culturally relevant insights for healthcare stakeholders.
+* **Tool Proficiency:** Gain experience with data science tools and healthcare platforms, ensuring compliance with privacy regulations.
+* **Ethics and Privacy:** Ensure all processes adhere to healthcare regulations, prioritizing patient privacy and ethical standards.
+* **Continuous Learning:** Stay updated on healthcare AI trends, focusing on culturally competent care and health equity.
+
+**Learn our mission at http://bit.ly/StageIV\\_Mission**
+
+**APPLY HERE: http://bit.ly/D4H\\_Internship**
+
+Share with your friends you think can benefit from this.
+
+**Industry: Health Care**
+
+Job Type: Internship
+
+Pay: Up to $10.00 per hour
+
+Expected hours: 10 – 40 per week
+
+Benefits:
+
+* Flexible schedule
+* Professional development assistance
+
+Experience:
+
+* Machine learning: 1 year (Required)
+* Python: 1 year (Required)
+
+Work Location: Remote","https://www.indeed.com/cmp/Dance4healing","http://dance4healing.com/","","","","Dance4Healing is an AI telehealth platform that helps elders/chronic patients/caregivers buddy up to build fun, lasting habits with recorded and live video classes. (Imagine YouTube + Zoom + eHarmony)","","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/58230cb77eedcfbd5cbca585b22f12b5","",""
+"4bde37c7a4b6682a","indeed","https://www.indeed.com/viewjob?jk=4bde37c7a4b6682a","https://ars2.equest.com/?response_id=1900e466faf0b6405739316efb995850","Technical Intern 1, Artificial Intelligence (Remote)","Applied Research Associates, Inc","Panama City, FL, US","parttime, internship","2024-09-13","direct_data","yearly",39272.0,49727.0,"USD",True,"","","Consulting And Business Services","","","ARA is seeking a talented Artificial Intelligence (AI) Intern to join their team. As an AI Intern, you will explore and implement AI solutions in solving complex problems. This is a part-time, fully remote position.
+
+
+**Minimum Qualifications:**
+
+
+* Pursuing a candidate that is currently seeking a BS or MS in Software Development, Computer Science, Computer Engineering, or a related technical discipline.
+* Proficiency in programming languages like Python, Java, C++ and have exceptional programming skills.
+* Coursework, experience, or knowledge related to Large Language Models (LLM's).
+* Experience data mining from LLMs.
+* Proficient with Microsoft Office Suite.
+* Previous experience preparing proposals is highly desired.
+
+**Responsibilities:**
+
+
+* Works closely with ARA managers to develop artificial intelligence tools with a goal of automating a particular process.
+* Works with subject matter experts to understand their needs and capture workflows for AI solutions.
+* Follows technical guidelines and best practices for source control, documentation, and responsible and ethical AI.
+* Monitor and troubleshoot AI systems to ensure performance and reliability.
+* Perform other related duties as needed.
+
+**Company information:**
+
+
+ARA is an employee-owned international research and engineering company recognized for providing superior solutions to complex and challenging problems in the physical sciences. The company, founded in Albuquerque, NM, in 1979, currently employs over 2,000 professionals. ARA offices throughout the United States and Canada provide a broad range of technical expertise in defense technologies, civil technologies, computer software and simulation, systems analysis, environmental technologies, and testing and measurement. The corporation also provides sophisticated technical products for environmental site characterization, pavement analysis, and robotics.
+
+
+At ARA, employees are our greatest assets. The corporation realizes that employee ownership spawns greater creativity and initiative along with higher performance and customer satisfaction levels. ARA gives its employees the tools, training, and opportunities to take more active roles as owners. The culture is challenging; innovation and experimentation are the norm. Employees are eligible for contributions which not only add to the company’s success, but also their own through the Employee Stock Ownership Plan (ESOP). The motto, “Engineering and Science for Fun and Profit” sums up the ARA experience.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.indeed.com/cmp/Applied-Research-Associates,-Inc","https://www.ara.com/join-us","Albuquerque, NM","1,001 to 5,000","$100M to $500M (USD)","ARA is a research/engineering company recognized for providing technically excellent solutions to challenging problems in physical sciences.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c58df046968012d0be497acd3028bfc1","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/2f10f12d8e2b8e4ecec4be904347c394","",""
+"4025211163","linkedin","https://www.linkedin.com/jobs/view/4025211163","","Machine Learning / Artificial Intelligence Intern/Co-Op (Grad| Spring 2025 | Hybrid)","RemoteWorker US","Santa Clara, CA","","","","","","","","","","","","","","","https://www.linkedin.com/company/remoteworkerus","","","","","","","","",""
+"4025211183","linkedin","https://www.linkedin.com/jobs/view/4025211183","","Machine Learning / Artificial Intelligence Intern/Co-Op (Graduate | 2025 | Hybrid)","RemoteWorker US","Austin, TX","","","","","","","","","","","","","","","https://www.linkedin.com/company/remoteworkerus","","","","","","","","",""
+"4025204996","linkedin","https://www.linkedin.com/jobs/view/4025204996","","Machine Learning / Artificial Intelligence Intern/Co-Op (Undergrad | Spring 2025 |Hybrid)","RemoteWorker US","Santa Clara, CA","","","","","","","","","","","","","","","https://www.linkedin.com/company/remoteworkerus","","","","","","","","",""
+"4025212073","linkedin","https://www.linkedin.com/jobs/view/4025212073","","Machine Learning / Artificial Intelligence Intern/Co-Op (Undergrad | 2025 | Hybrid)","RemoteWorker US","Austin, TX","","","","","","","","","","","","","","","https://www.linkedin.com/company/remoteworkerus","","","","","","","","",""
+"3954882259","linkedin","https://www.linkedin.com/jobs/view/3954882259","","Research Internship","Cohere","","","2024-09-15","","","","","","","","","","","","","https://ca.linkedin.com/company/cohere-ai","","","","","","","","",""
+"3954877781","linkedin","https://www.linkedin.com/jobs/view/3954877781","","Research Internship","Cohere","San Francisco, CA","","2024-09-14","","","","","","","","","","","","","https://ca.linkedin.com/company/cohere-ai","","","","","","","","",""
+"3990599474","linkedin","https://www.linkedin.com/jobs/view/3990599474","","AI/ML Power Systems Modeling Graduate Student Intern (GRA)","Los Alamos National Laboratory","Los Alamos, NM","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/los-alamos-national-laboratory","","","","","","","","",""
+"4025349473","linkedin","https://www.linkedin.com/jobs/view/4025349473","","2025 Summer Internship (US) - Machine Learning Engineer","Zebra Technologies","Lincolnshire, IL","","","","","","","","","","","","","","","https://www.linkedin.com/company/zebra-technologies","","","","","","","","",""
+"4023583403","linkedin","https://www.linkedin.com/jobs/view/4023583403","","Machine Learning Intern","Ibotta","Denver, CO","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/ibotta-inc-","","","","","","","","",""
+"4025289333","linkedin","https://www.linkedin.com/jobs/view/4025289333","","Data Science Intern","Thermo Fisher Scientific","Frederick, MD","","","","","","","","","","","","","","","https://www.linkedin.com/company/thermo-fisher-scientific","","","","","","","","",""
+"4025515453","linkedin","https://www.linkedin.com/jobs/view/4025515453","","Labs Incubator Intern - Summer 2025","ClickJobs.io","Naperville, IL","","","","","","","","","","","","","","","https://uk.linkedin.com/company/clickjobsio","","","","","","","","",""
+"4025517138","linkedin","https://www.linkedin.com/jobs/view/4025517138","","Labs Incubator Intern - Summer 2025","ClickJobs.io","Rockford, IL","","","","","","","","","","","","","","","https://uk.linkedin.com/company/clickjobsio","","","","","","","","",""
+"1009448152852","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009448152852","","Business Analyst Intern","CRST The Transportation Solution, Inc","Cedar Rapids, IA","","2024-09-16","direct_data","yearly",46675.0,62975.0,"USD",False,"","","","organic","","Do you want to work for a company where you can make a difference and gain practical on-the-job experience? When you join CRST, you’re not just a number or just an intern. You’re on the team!
+
+
+
+At CRST, our company’s success starts with hiring and developing the best people. CRST the Transportation Solution is one of the nation’s largest privately held transportation and logistics companies within the Supply Chain industry and are hoping to add to our team energetic, focused, and driven students. We are looking for students who can add value to our organization through their knowledge and experiences and help us to develop and do our business better! Our company has a positive and inclusive culture whereby we value each person and each voice, giving an ear to your solutions and ideas! Maybe you discover a more efficient way to design the delivery chain or uncover a problem and then provide a solution to save the organization money? Come on in, believe in your skills and apply them to help us to continue to grow and be the best that we can be while also developing yourself as a young professional!
+
+
+
+CRST has an exciting opportunity for you to join our Early Talent Program within our summer internship program as a **Business Analyst Intern** within our **Dedicated Solutions** division. CRST's **Dedicated Solutions** division is focused on service excellence to retailers and producers who need consistent, dependable, high-quality delivery services. We provide customers with the flexibility of a private fleet, without the expense.
+
+
+**Here is what you can expect:**
+
+
+* Responsible for helping gather, interpret, and create complex data reports
+* Evaluate processes, identify needs and develop strategies to improve processes and optimize results
+* Works closely with the operating company business stake holders, and other members of divisions to analyze and report all data for the teams
+* Learn about CRST’s business structures, processes, and systems
+* Formulate data to appropriately address business challenges and provide solutions to the leadership team
+
+
+The Summer Internship Program is where students are exposed to the transportation industry, engaged in real-world problem-solving, and immersed in social and educational opportunities with other interns and leaders across the organization. You will have the opportunity to work hand in hand with different business entities to accomplish company objectives and goals.
+
+
+**Here is what we are looking for:**
+
+
+* Pursuing a business-related 4-year bachelor’s degree from accredited university
+* Sophomore - Junior-level college student pursuing a degree within Business Analytics, Data Analytics or a similar field
+* Minimum 2.5 or above GPA
+* Exhibit a strong work ethic and loyalty
+* Strong communication and relationship-building skills
+* Drives for results with an appropriate level of urgency
+* Communicates effectively –speaks with impact, listens and writes effectively
+* Willingness to learn and ask appropriate questions
+* Bonus Skills- PowerBI, Excel and SQL experience
+* Self-starter with high personal motivation and desire to take initiative and ownership
+* Prior coursework, internship, or work experience preferred, but not required
+* Ability to multi-task and problem-solve effectively.
+* Comfortable using Microsoft Office, including Excel.
+* Basic oral and written communication skills
+* Maximizes relationships, fosters collaboration, and builds trust
+
+
+**Here is some other helpful information:**
+
+
+* Housing assistance is available to candidates who meet eligibility requirements and are ready to really immerse themselves in a summer of Cedar Rapids FUN!
+* Applicants must be enrolled in undergraduate courses at least the fall semester following the summer internship.
+* Interns who successfully complete the Early Talent Program are considered for full-time positions within CRST upon graduation with additional benefits.
+
+
+**The CRST Core Values:** Safety at the Core of All We Do – Integrity in Every Decision and Action – Commitment to the Success of Employees, Customers, Agents, Contractors, and Communities.
+
+
+**EEO Statement:** All qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.","https://www.glassdoor.com/Overview/W-EI_IE21071.htm","","","","","","https://media.glassdoor.com/sql/21071/crst-international-squareLogo-1675705848711.png","","",""
+"69147f11fb734bc1","indeed","https://www.indeed.com/viewjob?jk=69147f11fb734bc1","https://crst1.rec.pro.ukg.net/CRS1000CTEI/JobBoard/3f7ab554-0055-4ddb-8ad8-b320514f51ca/OpportunityDetail?opportunityId=d081812b-657c-4566-a66a-82b6b7d99c40&postingId=a8cf9425-00bc-4402-a8e9-8b0defcd00b4","Business Analyst Intern","CRST, The Transportation Solution","Cedar Rapids, IA, US","fulltime","2024-09-16","","","","","",False,"","","","","","Do you want to work for a company where you can make a difference and gain practical on-the-job experience? When you join CRST, you’re not just a number or just an intern. You’re on the team!
+
+
+
+At CRST, our company’s success starts with hiring and developing the best people. CRST the Transportation Solution is one of the nation’s largest privately held transportation and logistics companies within the Supply Chain industry and are hoping to add to our team energetic, focused, and driven students. We are looking for students who can add value to our organization through their knowledge and experiences and help us to develop and do our business better! Our company has a positive and inclusive culture whereby we value each person and each voice, giving an ear to your solutions and ideas! Maybe you discover a more efficient way to design the delivery chain or uncover a problem and then provide a solution to save the organization money? Come on in, believe in your skills and apply them to help us to continue to grow and be the best that we can be while also developing yourself as a young professional!
+
+
+
+CRST has an exciting opportunity for you to join our Early Talent Program within our summer internship program as a **Business Analyst Intern** within our **Dedicated Solutions** division. CRST's **Dedicated Solutions** division is focused on service excellence to retailers and producers who need consistent, dependable, high-quality delivery services. We provide customers with the flexibility of a private fleet, without the expense.
+
+
+**Here is what you can expect:**
+
+
+* Responsible for helping gather, interpret, and create complex data reports
+* Evaluate processes, identify needs and develop strategies to improve processes and optimize results
+* Works closely with the operating company business stake holders, and other members of divisions to analyze and report all data for the teams
+* Learn about CRST’s business structures, processes, and systems
+* Formulate data to appropriately address business challenges and provide solutions to the leadership team
+
+
+The Summer Internship Program is where students are exposed to the transportation industry, engaged in real-world problem-solving, and immersed in social and educational opportunities with other interns and leaders across the organization. You will have the opportunity to work hand in hand with different business entities to accomplish company objectives and goals.
+
+
+**Here is what we are looking for:**
+
+
+* Pursuing a business-related 4-year bachelor’s degree from accredited university
+* Sophomore - Junior-level college student pursuing a degree within Business Analytics, Data Analytics or a similar field
+* Minimum 2.5 or above GPA
+* Exhibit a strong work ethic and loyalty
+* Strong communication and relationship-building skills
+* Drives for results with an appropriate level of urgency
+* Communicates effectively –speaks with impact, listens and writes effectively
+* Willingness to learn and ask appropriate questions
+* Bonus Skills- PowerBI, Excel and SQL experience
+* Self-starter with high personal motivation and desire to take initiative and ownership
+* Prior coursework, internship, or work experience preferred, but not required
+* Ability to multi-task and problem-solve effectively.
+* Comfortable using Microsoft Office, including Excel.
+* Basic oral and written communication skills
+* Maximizes relationships, fosters collaboration, and builds trust
+
+
+**Here is some other helpful information:**
+
+
+* Housing assistance is available to candidates who meet eligibility requirements and are ready to really immerse themselves in a summer of Cedar Rapids FUN!
+* Applicants must be enrolled in undergraduate courses at least the fall semester following the summer internship.
+* Interns who successfully complete the Early Talent Program are considered for full-time positions within CRST upon graduation with additional benefits.
+
+
+**The CRST Core Values:** Safety at the Core of All We Do – Integrity in Every Decision and Action – Commitment to the Success of Employees, Customers, Agents, Contractors, and Communities.
+
+
+**EEO Statement:** All qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.","https://www.indeed.com/cmp/Crst,-the-Transportation-Solution","https://crst.com","Cedar Rapids, IA","5,001 to 10,000","$1B to $5B (USD)","CRST is one of the nation’s largest privately-held transportation companies. We provide a broad array of transportation solutions.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/14a3cce63a9239509fc1174ab5732896","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/ec67443d71efe7d896ffae7ebc052243","Mike Gannon","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/b1753f5c77284f829cc900408d6487de"
+"413013c83519634d","indeed","https://www.indeed.com/viewjob?jk=413013c83519634d","https://cortina.bamboohr.com/careers/218?source=indeed&src=indeed&postedDate=2024-09-13","Business Analyst Intern","Cortina Solutions","Huntsville, AL, US","parttime","2024-09-13","direct_data","yearly",34038.0,43100.0,"USD",False,"","","","","","Cortina Solutions is seeking a Business Analyst Intern to provide entry-level part-time administrative duties in the corporate office. This position will work with various corporate departments to assist in their functions (HR, Marketing, Contracts, Quality, etc).
+
+ **Job Duties:**
+
+
+* Assist with the development and implementation of corporate processes
+* Assist with the audit and assessment of corporate processes and procedures
+* Research and gather documentation as needed
+* Set up, organize and maintain conference rooms and general office areas
+* Collaboration with Accounting & Contracts to assist with project controls
+* Other duties as assigned.
+
+  
+
+
+**Job Requirements:**
+
+
+* Actively enrolled in a Bachelor’s degree program in a Business field
+* Must live in a HUBZone. To see if you reside in a HUBZone, type in your address at https://maps.certify.sba.gov/hubzone/map#center=39.828200,-98.579500&zoom=5
+* Experience with MS Office Software (Word, Excel, PowerPoint)
+
+Ability to work on average 10 hours per week  
+* 
+
+  
+
+Covid Vaccination Policy: Cortina does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site.
+
+  
+
+Cortina Solutions LLC is committed to hiring and maintaining a diversified workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.
+
+  
+
+As our team members work on government sites, all potential candidates are subject to a background screening that fully complies with the Fair Credit Reporting Act.","https://www.indeed.com/cmp/Cortina-Solutions","http://www.cortinasolutions.com","Huntsville","2 to 10","less than $1M (USD)","","","","",""
+"3816306198","linkedin","https://www.linkedin.com/jobs/view/3816306198","","Business Analyst Intern","Sandhills Global","Lincoln, NE","","2024-09-15","","","","","","","","","","","","","https://www.linkedin.com/company/sandhillsglobal","","","","","","","","",""
+"4008834559","linkedin","https://www.linkedin.com/jobs/view/4008834559","","2025 Launch Program: Business Analyst Intern","Red Ventures","Charlotte, NC","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/red-ventures","","","","","","","","",""
+"4025570706","linkedin","https://www.linkedin.com/jobs/view/4025570706","","Business Analyst Intern","CONNECTMETA.AI","","","","","","","","","","","","","","","","https://uk.linkedin.com/company/connectmeta-ai","","","","","","","","",""
+"4025546306","linkedin","https://www.linkedin.com/jobs/view/4025546306","","Business Analyst Intern","CONNECTMETA.AI","","","","","","","","","","","","","","","","https://uk.linkedin.com/company/connectmeta-ai","","","","","","","","",""
+"1009447804083","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009447804083","","Market Research Intern, application via RippleMatch","RippleMatch Opportunities","Dallas, TX","","2024-09-16","direct_data","yearly",37377.0,66355.0,"USD",False,"","","","organic","","**This role is with RippleMatch's partner companies. RippleMatch partners with hundreds of companies looking to hire top talent.**
+
+
+**About RippleMatch**
+
+
+
+RippleMatch is your AI-powered job matchmaker. Our platform brings opportunities directly to you by matching you with top employers and jobs you are qualified for. Tell us about your strengths and goals - we'll get you interviews! Leading employers such as eBay and Teach For America leverage RippleMatch to build diverse, high-performing teams and Gen Z job seekers across the country trust RippleMatch to launch and grow their careers.
+
+
+
+Requirements for the role:
+
+
+* Currently pursuing a Bachelor's or Master's degree in Marketing, Business Administration, Statistics, Economics, or a related field.
+* Basic understanding of market research methodologies and techniques, including surveys, focus groups, and data analysis.
+* Proficiency in using statistical tools and software for data analysis, such as SPSS, SAS, or Excel.
+* Ability to assist in collecting, analyzing, and interpreting large sets of data to identify market trends and consumer behaviors.
+* Strong analytical and critical thinking skills, with the capacity to derive actionable insights from research data.
+* Good organizational and project management skills, capable of handling multiple tasks and contributing to collaborative projects.
+* Effective communication and interpersonal skills, for working with diverse teams and presenting research findings.
+* Eagerness to learn and stay updated with advancements in market research and related technologies.
+* Proactive approach to learning new research techniques and applying them to real-world scenarios.","https://www.glassdoor.com/Overview/W-EI_IE1523626.htm","","","","","","https://media.glassdoor.com/sql/1523626/ripplematch-squareLogo-1653073311068.png","","",""
+"8aa95e847d009058","indeed","https://www.indeed.com/viewjob?jk=8aa95e847d009058","https://grnh.se/dc8d349b2us","Market Research Intern, application via RippleMatch","RippleMatch","Dallas, TX, US","internship","2024-09-16","direct_data","yearly",31388.0,39744.0,"USD",False,"","","","","","**This role is with RippleMatch's partner companies. RippleMatch partners with hundreds of companies looking to hire top talent.**
+
+
+**About RippleMatch**
+
+
+
+RippleMatch is your AI-powered job matchmaker. Our platform brings opportunities directly to you by matching you with top employers and jobs you are qualified for. Tell us about your strengths and goals - we'll get you interviews! Leading employers such as eBay and Teach For America leverage RippleMatch to build diverse, high-performing teams and Gen Z job seekers across the country trust RippleMatch to launch and grow their careers.
+
+
+
+Requirements for the role:
+
+
+* Currently pursuing a Bachelor's or Master's degree in Marketing, Business Administration, Statistics, Economics, or a related field.
+* Basic understanding of market research methodologies and techniques, including surveys, focus groups, and data analysis.
+* Proficiency in using statistical tools and software for data analysis, such as SPSS, SAS, or Excel.
+* Ability to assist in collecting, analyzing, and interpreting large sets of data to identify market trends and consumer behaviors.
+* Strong analytical and critical thinking skills, with the capacity to derive actionable insights from research data.
+* Good organizational and project management skills, capable of handling multiple tasks and contributing to collaborative projects.
+* Effective communication and interpersonal skills, for working with diverse teams and presenting research findings.
+* Eagerness to learn and stay updated with advancements in market research and related technologies.
+* Proactive approach to learning new research techniques and applying them to real-world scenarios.","https://www.indeed.com/cmp/Ripplematch","http://www.ripplematch.com","New York, NY","51 to 200","Decline to state","RippleMatch helps early career candidates from all backgrounds land their dream jobs.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f6b05f5031dde7e8541c60a41b26562d","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/13385755c13293703ed108d67a02f57b","Andrew Myers",""
+"4027264251","linkedin","https://www.linkedin.com/jobs/view/4027264251","","Market Research Intern, application via RippleMatch","RippleMatch","Los Angeles, CA","","","","","","","","","","","","","","","https://www.linkedin.com/company/ripplematch","","","","","","","","",""
+"4027263817","linkedin","https://www.linkedin.com/jobs/view/4027263817","","Market Research Intern, application via RippleMatch","RippleMatch","San Francisco, CA","","","","","","","","","","","","","","","https://www.linkedin.com/company/ripplematch","","","","","","","","",""
+"4027268144","linkedin","https://www.linkedin.com/jobs/view/4027268144","","Market Research Intern, application via RippleMatch","RippleMatch","New York, NY","","","","","","","","","","","","","","","https://www.linkedin.com/company/ripplematch","","","","","","","","",""
+"4027265190","linkedin","https://www.linkedin.com/jobs/view/4027265190","","Market Research Intern, application via RippleMatch","RippleMatch","Denver, CO","","","","","","","","","","","","","","","https://www.linkedin.com/company/ripplematch","","","","","","","","",""
+"1009446797783","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009446797783","","Boeing Research & Technology Graduate Researcher - Operations Research Intern","BOEING","North Charleston, SC","","2024-09-14","direct_data","yearly",76000.0,88000.0,"USD",False,"","","","organic","","At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+
+At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the seabed to outer space, you’ll learn and grow, contributing to work that shapes the world. Find your future with us.
+
+
+Join our exclusive **Graduate Researcher Program (GRP)** in Boeing Research & Technology during the Summer of 2025 and you can build something better for yourself, for our customers and for the world. Boeing Research & Technology is Boeing's global research and development team creating and implementing innovative technologies that make the impossible possible and enabling the future of aerospace. We are engineers, skilled scientists, thinkers, bold innovators and dreamers.
+
+**What is Graduate Researcher Program?**
+
+
+The GRP (Graduate Researcher Program) is a unique 10-12 week internship program designed specifically for students pursuing their PhD. GRP is a hybrid experience of real-world industry work experience combined with development programming that exposes students to Boeing, its products and services and its people. GRP focuses on deeply connecting students to their team and Boeing through repeated work experience across multiple summers with the goal to ultimately offer a full-time position at the conclusion of academic studies if a mutual fit is achieved.
+
+**How GRP Works:**
+
+
+Upon application and selection, successful applicants are matched with an intern experience and team related to their area of expertise. The program aims to provide interns with a valuable opportunity to gain deeper experience at Boeing and with their assigned team, while also utilizing academic skills and expertise to help solve real-world industry challenges and opportunities.
+
+
+In addition to industry work exposure, GRP students will attend GRP programming to extend their experience and knowledge at Boeing. GRP programming includes: mentorship in your field of study, weekly Featured Speaker Talks, a week-long in-person GRP Summit, participation in an Innovation Challenge, and other opportunities to interact and build a professional network with other GRP students, Boeing team members, and leadership.
+
+
+Please note: The work you do at Boeing can be related to your area of study, but will not contribute to the work in your PhD thesis.
+
+**Who we are looking for:**
+
+
+We are seeking students who will have completed their first year of study in their PhD program by July 2025 and are passionate about the aerospace industry and Boeing. GRP students excel at quickly adapting to their roles, analyzing complex problems, and developing innovative solutions. They thrive in collaborative team environments and possess excellent communication skills. Above all, they are driven to contribute to the success of their team, fellow GRP students, and Boeing.
+
+
+As applied mathematicians, we lead in evaluating, creating and applying mathematical algorithms and tools to incorporate emerging technology into innovative products and services. Join us and put your passion, determination, and skill to work building the future!
+
+
+The successful candidate will serve as a technical consultant and researcher and will develop solutions and work across the enterprise in the area of operations research. The tasks performed will be to develop solutions and software to solve complex problems supporting current research and consulting needs.
+
+
+We are looking for candidates with the ability to evaluate resources to solve mathematical problems, assist with research, develop solutions and implement algorithms in code, and communicate to technical and non-technical audiences.
+
+
+This position is expected to be 100% onsite. The selected candidate will be required to work onsite at one of the listed location options.
+
+
+Travel: 0 – 10%
+
+**This position must meet export control compliance requirements. To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.15 is required. “U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asylee.**
+
+**Employer will not sponsor applicants for employment visa status.**
+
+**Basic Qualifications for all positions (Required Skill/Experience):**
+
+* The ability to work a minimum of 10 weeks (12 weeks preferred) during the summer of 2025.
+* Pursuing PhD in Operations Research, Industrial Engineering, or a related field.
+* Graduate research and/or experience working in a role that required operations research, including discrete optimization, discrete event simulation, stochastic modeling and optimization, inventory optimization, and/or computational math focused on Operations Research applications.
+* Strong software programming skills and experience of programming languages such as Python, Matlab, Java, C, or C++.
+* Completed the first year of your PhD studies by July 2025.
+
+**Preferred Qualifications:**
+
+* Excellent communication skills.
+* Ability to adapt to changing environments and work statements.
+* Ability to work on multidisciplinary teams and a strong desire to work with technical and non-technical audiences and be a self-starter.
+* Passion to develop operations research methods in research & development and apply operations research to develop industrial solutions.
+
+**Relocation:**
+
+
+This position offers relocation based on candidate eligibility.
+
+ **Drug Free Workplace:**
+
+
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+**Shift:**
+
+
+This position is for 1st shift.
+
+**Union Representation Statement:**
+
+
+These positions are in multiple U.S. locations and may or may not be covered by a collective bargaining agreement. In locations where SPEEA representation applies, this job family will be covered by the terms of the collective bargaining agreement. Applicable and appropriate educational/certification credentials from an accredited institution and/or equivalent experience is required.
+
+
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+
+  
+
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+
+  
+
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+
+  
+
+Pay is based upon candidate experience and qualifications, as well as market and business considerations.
+
+ **Summary pay range: $76,000 - $88,000**
+
+**Posting End Date:**
+
+
+Applications for this position will be accepted through November 6, 2024.
+
+ **Equal Opportunity Employer:**
+
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.","https://www.glassdoor.com/Overview/W-EI_IE102.htm","","","","","","https://media.glassdoor.com/sql/102/boeing-squarelogo-1544719001985.png","","",""
+"a807ae160c431828","indeed","https://www.indeed.com/viewjob?jk=a807ae160c431828","https://jobs.boeing.com/job/-/-/185/69926171120","Boeing Research & Technology Graduate Researcher - Operations Research Intern","Boeing","North Charleston, SC, US","fulltime, internship","2024-09-14","direct_data","yearly",76000.0,88000.0,"USD",False,"","","","","","At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+
+
+At Boeing, we are all innovators on a mission to connect, protect, explore and inspire. From the seabed to outer space, you’ll learn and grow, contributing to work that shapes the world. Find your future with us.
+
+
+Join our exclusive **Graduate Researcher Program (GRP)** in Boeing Research & Technology during the Summer of 2025 and you can build something better for yourself, for our customers and for the world. Boeing Research & Technology is Boeing's global research and development team creating and implementing innovative technologies that make the impossible possible and enabling the future of aerospace. We are engineers, skilled scientists, thinkers, bold innovators and dreamers.
+
+**What is Graduate Researcher Program?**
+
+
+The GRP (Graduate Researcher Program) is a unique 10-12 week internship program designed specifically for students pursuing their PhD. GRP is a hybrid experience of real-world industry work experience combined with development programming that exposes students to Boeing, its products and services and its people. GRP focuses on deeply connecting students to their team and Boeing through repeated work experience across multiple summers with the goal to ultimately offer a full-time position at the conclusion of academic studies if a mutual fit is achieved.
+
+**How GRP Works:**
+
+
+Upon application and selection, successful applicants are matched with an intern experience and team related to their area of expertise. The program aims to provide interns with a valuable opportunity to gain deeper experience at Boeing and with their assigned team, while also utilizing academic skills and expertise to help solve real-world industry challenges and opportunities.
+
+
+In addition to industry work exposure, GRP students will attend GRP programming to extend their experience and knowledge at Boeing. GRP programming includes: mentorship in your field of study, weekly Featured Speaker Talks, a week-long in-person GRP Summit, participation in an Innovation Challenge, and other opportunities to interact and build a professional network with other GRP students, Boeing team members, and leadership.
+
+
+Please note: The work you do at Boeing can be related to your area of study, but will not contribute to the work in your PhD thesis.
+
+**Who we are looking for:**
+
+
+We are seeking students who will have completed their first year of study in their PhD program by July 2025 and are passionate about the aerospace industry and Boeing. GRP students excel at quickly adapting to their roles, analyzing complex problems, and developing innovative solutions. They thrive in collaborative team environments and possess excellent communication skills. Above all, they are driven to contribute to the success of their team, fellow GRP students, and Boeing.
+
+
+As applied mathematicians, we lead in evaluating, creating and applying mathematical algorithms and tools to incorporate emerging technology into innovative products and services. Join us and put your passion, determination, and skill to work building the future!
+
+
+The successful candidate will serve as a technical consultant and researcher and will develop solutions and work across the enterprise in the area of operations research. The tasks performed will be to develop solutions and software to solve complex problems supporting current research and consulting needs.
+
+
+We are looking for candidates with the ability to evaluate resources to solve mathematical problems, assist with research, develop solutions and implement algorithms in code, and communicate to technical and non-technical audiences.
+
+
+This position is expected to be 100% onsite. The selected candidate will be required to work onsite at one of the listed location options.
+
+
+Travel: 0 – 10%
+
+**This position must meet export control compliance requirements. To meet export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.15 is required. “U.S. Person” includes U.S. Citizen, lawful permanent resident, refugee, or asylee.**
+
+**Employer will not sponsor applicants for employment visa status.**
+
+**Basic Qualifications for all positions (Required Skill/Experience):**
+
+* The ability to work a minimum of 10 weeks (12 weeks preferred) during the summer of 2025.
+* Pursuing PhD in Operations Research, Industrial Engineering, or a related field.
+* Graduate research and/or experience working in a role that required operations research, including discrete optimization, discrete event simulation, stochastic modeling and optimization, inventory optimization, and/or computational math focused on Operations Research applications.
+* Strong software programming skills and experience of programming languages such as Python, Matlab, Java, C, or C++.
+* Completed the first year of your PhD studies by July 2025.
+
+**Preferred Qualifications:**
+
+* Excellent communication skills.
+* Ability to adapt to changing environments and work statements.
+* Ability to work on multidisciplinary teams and a strong desire to work with technical and non-technical audiences and be a self-starter.
+* Passion to develop operations research methods in research & development and apply operations research to develop industrial solutions.
+
+**Relocation:**
+
+
+This position offers relocation based on candidate eligibility.
+
+ **Drug Free Workplace:**
+
+
+Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+
+**Shift:**
+
+
+This position is for 1st shift.
+
+**Union Representation Statement:**
+
+
+These positions are in multiple U.S. locations and may or may not be covered by a collective bargaining agreement. In locations where SPEEA representation applies, this job family will be covered by the terms of the collective bargaining agreement. Applicable and appropriate educational/certification credentials from an accredited institution and/or equivalent experience is required.
+
+
+At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+
+  
+
+The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+
+  
+
+The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+
+  
+
+Pay is based upon candidate experience and qualifications, as well as market and business considerations.
+
+ **Summary pay range: $76,000 - $88,000**
+
+**Posting End Date:**
+
+
+Applications for this position will be accepted through November 6, 2024.
+
+ **Equal Opportunity Employer:**
+
+
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.","https://www.indeed.com/cmp/Boeing","https://www.boeing.com","Washington, DC","10,000+","more than $10B (USD)","Boeing is the world's largest aerospace company. We’re engineers & technicians. Innovators & dreamers. Join us, and build something better.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d756d2fff42aa9586c0905e5281a25f9","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/2ec7be3fe5b28b6221bb442c4659f15f","David Calhoun","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/7344b38f15b591b58a60f9f06246be83"
+"4023988463","linkedin","https://www.linkedin.com/jobs/view/4023988463","","Boeing Research & Technology Graduate Researcher - Operations Research Intern","Boeing","North Charleston, SC","","2024-09-14","","","","","","","","","","","","","https://www.linkedin.com/company/boeing","","","","","","","","",""
